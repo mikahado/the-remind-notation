@@ -1,3 +1,10 @@
+---
+title: Get it On
+artist: T. Rex
+tags: 
+  - Rock
+---
+
 ### A E - G A E
 
 Well, you're dirty and sweet  Clad in black, don't look back and I love you  

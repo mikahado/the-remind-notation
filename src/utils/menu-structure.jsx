@@ -8,7 +8,6 @@ export const DefaultMenuStructure = (menuType = 'main') => {
     // Default Menu.
     { type: 'page', item: 'the-remind-notation', title: 'TRN' },
     { type: 'page', item: 'song-book', title: 'The Song Book' },
-
     { type: 'page', item: 'tags', title: 'Genre' },
   ]
   let structure = null

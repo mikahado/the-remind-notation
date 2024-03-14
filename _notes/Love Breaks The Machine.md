@@ -1,4 +1,12 @@
-Bm > G , Em * am (Bm7 Cm7)  _  Cm7 Eb (F#) 
+---
+title: Love Breaks the Machine
+artist: Of Montreal
+tags: 
+  - Pop
+---
+
+### Bm > G Em ^ am (Bm7 Cm7) 
+### Cm7 Eb (F#) 
 
 Love breaks the machine, everything's half apart, what can it mean?  
 How can I trust my fractious heart knowing I have the enemy gene?  

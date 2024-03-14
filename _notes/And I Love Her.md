@@ -1,3 +1,9 @@
+---
+title: And I Love Her
+artist: The Beatles
+tags: 
+  - Pop
+---
 ### F#m C#m ^ A B7 E 
 ### C#m < B G#m ^ B
 ### Gm Dm ^ Bb

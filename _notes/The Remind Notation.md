@@ -1,15 +1,10 @@
-# The Remind Notation (TRN)
-
-The Remind Notation is a minimal, compact notation method designed for musicians performing live or jamming with others. It simplifies the presentation of chords and song structure into a single line of text, while also offering a concise display of song lyrics to avoid mid-performance scrolling.
+Hi! I'm Maika, the author of The Remind Notation and this website. The Remind Notation is a minimal, compact notation method designed for musicians performing live or jamming with others. It simplifies the presentation of chords and song structure into a single line of text, while also offering a concise display of song lyrics to avoid mid-performance scrolling.
 
 ## How to Read TRN  
 
-### Notation Syntax
+Key symbols include dash for separating parts, parentheses for transitions or fills, carot for repetition, and arrows for home progressions.
 
-- Each element of the notation carries meaning and is separated by spaces.
-- Key symbols include dash for separating parts, parentheses for transitions or fills, carot for repetition, and arrows for home progressions.
-
-### Notation Glossary
+### Glossary
 
 " - " = dash separates "parts", ie verse, chorus, bridge, instrumental, etc. 
 
@@ -38,8 +33,13 @@ ex. b
 
 ## What is TNR not
 
-1. TRN does not display dynamics (how hard or soft to play)
-2. TRN does not display how many bars to play
+Remember, The Remind Notation is not designed for learning a song, but rather performing it well. TRM encourages musicians to bring more of their self and their memory to the piece. As such, TRN excludes some common musical elements such as:
+
+1. No dynamics/articulation (how hard or soft to play)
+2. No tempo/metre/bars
+3. No technique (ie, which fingers to use, whether to strum or fingerpick, etc. )
+4. No repetition count (of how mamy times a section is repeated)
+5. No tablature
 
 
 ## Background
@@ -66,8 +66,8 @@ TRN is intended for musicians who have already learned a song and seek a compact
 
 ## FAQs
 
-**Q: How is PRON different from other musical notation?**  
-A: PRON omits time and dynamic indicators, focusing solely on chord and structure reminders. It encourages musicians to inject their personal interpretation into the performance, making it ideal for jam sessions.
+**Q: How is TRN different from other musical notation?**  
+A: TRN omits time and dynamic indicators, focusing solely on chord and structure reminders. It encourages musicians to inject their personal interpretation into the performance, making it ideal for jam sessions.
 
 
 

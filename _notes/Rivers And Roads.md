@@ -1,4 +1,11 @@
-RiversAndRoads _ C Am ^ F C  _ Am F C 
+---
+title: Rivers and Roads
+artist: The Head and the Heart
+tags: 
+  - Folk
+---
+
+### C Am ^ F C  - Am F C 
 
 A year from now, we'll all be gone  All our friends will move away  
 And they're goin' to better places  But our friends will be gone away
