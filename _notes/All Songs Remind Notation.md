@@ -1,29 +1,21 @@
 
-### Originals 
+[[Get It On]] - A E - G A E
 
-[[TwistedWhim]] _ Am C F Am _ Am C G  F _ C am G F
+[[Starman]] - Gm F C ( F Ab Bb - A G ) - F Dm Am C - Bb Bbm F F# Gm C - Bb F C F
 
-### Covers
+[[What Was I Made For]] - C am Fma7 - dm G7 - C (am) em F
 
-[[Get It On]]  _ A E _ G A E
+[[There Goes My Cool]] - F D# D7 gm A# C -  F dm am C
 
-[[Starman]] _ Gm F C ( F Ab Bb _ A G ) _ F Dm Am C _ Bb Bbm F F# Gm C _ Bb F C F
+[[You Said Something]] - F C G - C D C
 
-[[What Was I Made For]] _ C am Fma7 _ dm G7 _ C (am) em F
+[[Love Breaks The Machine]] - Bm > G Em  - am ( Bm7 Cm7 ) - Cm7 Eb ( F# )  
 
-[[There Goes My Cool]] _ F D# D7 gm A# C _  F dm am C
+[[RiversAndRoads]] - C Am ^ F C  - Am F C 
 
-[[You Said Something]] _ F C G _ C D C
+[[Lovely]] - C Em Bm 
 
-[[Love Breaks The Machine]] _ Bm > G , Em  _ am ( Bm7 Cm7 )  _  Cm7 Eb ( F# )  
+[[RingOfFire]] - G < C D - D C G ^ D G ^
 
-[[RiversAndRoads]] _ C Am ^ F C  _ Am F C 
+[[And I Love Her]] - F#m C#m ^ A B7 E - C#m < B G#m * B - Gm Dm ^ Bb C7 F
 
-[[Lovely]] _ C Em Bm 
-
-[[RingOfFire]] _  G < C D  _ D C G * D G *
-
-[[And I Love Her]] _ F#m C#m * A B7 E _ C#m < B G#m * B  _ Gm Dm * Bb C7 F
-
-
-Return to [[The Song Book]]

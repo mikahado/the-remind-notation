@@ -19,10 +19,6 @@ export default function Tag({ pageContext, data }) {
         <NoteList notes={edges} />
 
         <Pager context={pageContext} />
-
-        <p>
-          <Link to="/tags">See All Songs</Link>
-        </p>
       </div>
     </Layout>
   )

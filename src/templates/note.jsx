@@ -182,7 +182,7 @@ export default function Note({ pageContext, data }) {
               />
             </div> */}
             <div className="buttons for-back-home">
-              <Link className="button is-text button__page-back" to="/song-book">
+              <Link className="button is-text button__page-back" to="/">
                 <span className="icon is-small">
                   <svg
                     width="12"

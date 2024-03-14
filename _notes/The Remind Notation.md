@@ -1,4 +1,4 @@
-Hi! I'm Maika, the author of The Remind Notation and this website. The Remind Notation is a minimal, compact notation method designed for musicians performing live or jamming with others. It simplifies the presentation of chords and song structure into a single line of text, while also offering a concise display of song lyrics to avoid mid-performance scrolling.
+The Remind Notation is a minimal, compact notation method designed for musicians performing live or jamming with others. It simplifies the presentation of chords and song structure into a single line of text, while also offering a concise display of song lyrics to avoid mid-performance scrolling.
 
 ## How to Read TRN  
 
@@ -44,7 +44,7 @@ Remember, The Remind Notation is not designed for learning a song, but rather pe
 
 ## Background
 
-TRN was born out of a frustration I had while performing live, rehearsing, or jamming with friends. If we all wanted to see the chords and lyrics to a song, one of us would have to be the page-turner and scroll up and down the page for everyone. There have been some attempts to solve this with auto-scroll, which is a pain to synchronize to the temp of a song. Or you could hook up a pedal to turn the pages. But I wanted to create a better way, where any average length song could be seen and played on less than a single page. So I invented The Remind Notation, the notation that brings out the best in your performance.  
+Hi! I'm Maika, the author of The Remind Notation (and this site). TRN was born out of a frustration I had while performing live, rehearsing, or jamming with friends. If we all wanted to see the chords and lyrics to a song, one of us would have to be the page-turner and scroll up and down the page for everyone. There have been some attempts to solve this with auto-scroll, which is a pain to synchronize to the temp of a song. Or you could hook up a pedal to turn the pages. But I wanted to create a better way, where any average length song could be seen and played on less than a single page. So I invented The Remind Notation, the notation that brings out the best in your performance.  
 
 ## Philosophy
 

@@ -11,9 +11,9 @@ export default function TagList({ data }) {
   })
 
   return (
-    <Layout title="All Tags" type="tag">
+    <Layout title="All Genres" type="tag">
       <div className="column is-half">
-        <h1>All Tags</h1>
+        <h1>Genres</h1>
 
         <ul>
           {tagList.map(tag => (

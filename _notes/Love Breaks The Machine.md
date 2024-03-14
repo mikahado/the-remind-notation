@@ -19,5 +19,3 @@ How can we ever evolve when our gods are so primitive?
   
 They destroy our hope for peace,  
 Hope for love, ooh
-
-Return to [[The Song Book]]

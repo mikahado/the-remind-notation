@@ -6,8 +6,9 @@ import { camelCase, startCase } from 'lodash'
 export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
     // Default Menu.
-    { type: 'page', item: 'the-remind-notation', title: 'TRN' },
-    { type: 'page', item: 'song-book', title: 'The Song Book' },
+    { type: 'page', item: 'the-remind-notation', title: 'About'},
+    { type: 'page', item: 'all-songs-remind-notation', title: 'TRN'},
+    { type: 'page', item: 'the-song-book', title: 'The Song Book' },
     { type: 'page', item: 'tags', title: 'Genre' },
   ]
   let structure = null
@@ -67,7 +68,7 @@ export const DefaultMenuStructure = (menuType = 'main') => {
       .slice(0, 10) // Get the top 10 tags.
 
     if (tagList.length) {
-      structure[2].menu = tagList.map(tag => {
+      structure[3].menu = tagList.map(tag => {
         return { type: 'tag', item: tag.fieldValue }
       })
     } else {
