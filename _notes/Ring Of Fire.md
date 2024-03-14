@@ -16,5 +16,3 @@ And it burns, burns, burns, The ring of fire, the ring of fire.
 
 The taste of love is sweet when hearts like ours meet. 
 I fell for you like a child. Oh, but the fire went wild. 
-
-Return to [[The Song Book]]

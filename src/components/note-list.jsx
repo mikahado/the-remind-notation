@@ -30,7 +30,7 @@ export default function NoteList({ notes }) {
               : data.node.excerpt}
           </p>
 
-          { data.node.frontmatter.tags?.length ? 
+          {/* { data.node.frontmatter.tags?.length ? 
           <p className="note-tag-list">
             Genre:{' '}
             {data.node.frontmatter && data.node.frontmatter.tags
@@ -41,7 +41,7 @@ export default function NoteList({ notes }) {
                   </span>
                 ))
               : 'No Tags'}
-          </p> : null }
+          </p> : null } */}
           {/* <p className="note-date">
             Published {moment(new Date(data.node.fields.date)).fromNow()}
           </p> */}

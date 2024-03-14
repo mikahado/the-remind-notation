@@ -182,7 +182,7 @@ export default function Note({ pageContext, data }) {
               />
             </div> */}
             <div className="buttons for-back-home">
-              <Link className="button is-text button__page-back" to="/">
+              <button className="button is-text button__page-back" onClick={() => window.history.back()}>
                 <span className="icon is-small">
                   <svg
                     width="12"
@@ -199,7 +199,7 @@ export default function Note({ pageContext, data }) {
                     />
                   </svg>
                 </span>
-              </Link>
+              </button>
             </div>
           </div>
         </main>
