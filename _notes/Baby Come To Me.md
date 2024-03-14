@@ -1,0 +1,30 @@
+BabyComeToMe 
+Am7 D * F G * 
+Bbmaj7 Am7 Ab G (F G) 
+_ Cm7 ( Fm7  AbM7  Fm9 ) Gm7 ( EbM7 Fdim || Dm7 Fdim Cm7 ) 
+_ AbM7 Cm7 Ab EbM7 - Bbm Fm7 Db F
+
+_ Thinkin' back in time  When love was only in my mind  I realize, 
+Ain't no second chance  You've got to hold on to romance Don't let it slide  
+_ There's a special kind of magic in the air  
+When you find another heart that needs to share
+_ Baby, come to me  Let me put my arms around you  
+This was meant to be  And I'm, oh so glad, I found you
+Need you ev'ry day  Gotta have your love around me  
+Baby, always stay  'Cause I can't go back to livin' without you
+_ Spendin' ev'ry dime  To keep you talkin' on the line  That's how it was  
+And all those walks together Out in any kind of weather  Just because  
+_ There's a brand-new way  Of looking at your life
+When you know that love  Is standing by your side ...
+_ The nights can be cold  There's a chill to ev'ry evenin' When you're all alone
+Don't talk anymore  'Cause you know that I'll be here  To keep you warm  
+
+
+Return to [[The Song Book]]
+
+
+## Notes 
+
+Songwriters: 
+Performed by: James Ingram and Patti Austin 
+Add 9ths where appropriate 
