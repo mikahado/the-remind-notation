@@ -1,3 +1,4 @@
+A compact setlist of titles and Remind Notation.
 
 [[Get It On]] - A E - G A E
 
@@ -16,4 +17,6 @@
 [[Ring Of Fire]] - G < C D - D C G ^ D G ^
 
 [[And I Love Her]] - F#m C#m ^ A B7 E - C#m < B G#m * B - Gm Dm ^ Bb C7 F
+
+[[Sea of Love]] - G B7 C A ^   
 

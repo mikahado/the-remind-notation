@@ -11,7 +11,7 @@ export default function TagList({ data }) {
   })
 
   return (
-    <Layout title="All Genres" type="tag">
+    <Layout title="Genres" type="tag">
       <div className="column is-half">
         <h1>Genres</h1>
 

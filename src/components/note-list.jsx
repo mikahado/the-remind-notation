@@ -19,20 +19,26 @@ export default function NoteList({ notes }) {
             if (event.keycode === 13) navigate(data.node.fields.slug)
           }}
         >
-          <h4 className="note-title">
+          <h3 className="note-title">
             <Link to={`${data.node.fields.slug}`}>
               {data.node.fields.title}
             </Link>
-          </h4>
-          <p className="note-excerpt">
+          </h3>
+          { data.node.frontmatter.artist ? 
+  <p className="note-tag-list">
+    {data.node.frontmatter.artist}
+  </p> 
+  : null 
+}
+          {/* <p className="note-excerpt">
             {data.node.fields.excerpt
               ? data.node.fields.excerpt
               : data.node.excerpt}
-          </p>
+          </p> */}
 
           {/* { data.node.frontmatter.tags?.length ? 
           <p className="note-tag-list">
-            Genre:{' '}
+            by {' '}
             {data.node.frontmatter && data.node.frontmatter.tags
               ? data.node.frontmatter.tags.map((tag, index) => (
                   <span key={index}>
@@ -42,6 +48,11 @@ export default function NoteList({ notes }) {
                 ))
               : 'No Tags'}
           </p> : null } */}
+
+
+
+
+
           {/* <p className="note-date">
             Published {moment(new Date(data.node.fields.date)).fromNow()}
           </p> */}

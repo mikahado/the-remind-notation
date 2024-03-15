@@ -18,7 +18,7 @@ import DarkMode from '../components/dark-mode'
 export default function Header({ title, type, description }) {
   const menu = DefaultMenuStructure('header')
   const pageTitle =
-    (siteConfig.siteMetadata.title || 'The Remind Notation') +
+    (siteConfig.siteMetadata.title || 'The Remind Notation beta') +
     (title ? ` : ${title}` : '')
 
   const handleHamburgerMenuClick = e => {
@@ -161,7 +161,7 @@ export default function Header({ title, type, description }) {
 
 
 
-            <h4>{siteConfig.siteMetadata.title || 'The Remind Notation'}</h4>
+            <h4>{siteConfig.siteMetadata.title || 'The Remind Notation beta'}</h4>
           </Link>
           <div className="navbar-item navbar-dark-mode__mobile is-hidden-tablet">
             <DarkMode />

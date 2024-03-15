@@ -4,6 +4,7 @@ artist: The Head and the Heart
 tags: 
   - Folk
 ---
+The Head and the Heart
 
 ### - C Am ^ F C  
 ### - Am F C 
@@ -21,5 +22,3 @@ If you don't know what to make of this  Then we will not relate
 So if you don't know what to make of this  Then we will not relate
 
 Rivers and roads  Rivers and roads  Rivers 'til I reach you
-
-Return to [[The Song Book]]

@@ -4,10 +4,9 @@ artist: The Beatles
 tags: 
   - Pop
 ---
-### - F#m C#m ^ A B7 E 
-### - C#m < B G#m ^ B
-### - Gm Dm ^ Bb
-### - C7 F
+### - Dm Am ^ F G7 C 
+### - Am < G Em ^ ( G )
+### - T Em Bm G A7 D
 
 I give her all my love  That's all I do  
 And if you saw my love  You'd love her too  I love her
@@ -19,7 +18,3 @@ A love like ours  Could never die  As long as I  Have you near me
 
 Bright are the stars that shine  Dark is the sky  
 I know this love of mine  Will never die  And I love her
-
-### Notes 
-
-Cobain version cuts first verse: V2 V3 Ch V3 Ch

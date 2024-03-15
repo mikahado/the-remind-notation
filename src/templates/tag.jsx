@@ -46,6 +46,7 @@ export const query = graphql`
           }
           frontmatter {
             tags
+            artist
           }
         }
       }
