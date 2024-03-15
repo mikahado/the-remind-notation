@@ -5,9 +5,9 @@ tags:
   - Rock
 ---
 
-### F ( D# ) D7 Gm A# C ^
-### F dm am C 
-### (A#m A#)
+### - F ( D# ) D7 Gm A# C ^
+### - F dm am C 
+### - (A#m A#)
 
 Feels like the countdown's almost up  Still looking for a hiding place    
 Asleep between the jaws of all the lies I'm living    

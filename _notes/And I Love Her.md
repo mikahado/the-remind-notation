@@ -4,10 +4,10 @@ artist: The Beatles
 tags: 
   - Pop
 ---
-### F#m C#m ^ A B7 E 
-### C#m < B G#m ^ B
-### Gm Dm ^ Bb
-### C7 F
+### - F#m C#m ^ A B7 E 
+### - C#m < B G#m ^ B
+### - Gm Dm ^ Bb
+### - C7 F
 
 I give her all my love  That's all I do  
 And if you saw my love  You'd love her too  I love her

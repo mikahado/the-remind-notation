@@ -11,11 +11,9 @@
 
 [[Love Breaks The Machine]] - Bm > G Em  - am ( Bm7 Cm7 ) - Cm7 Eb ( F# )  
 
-[[RiversAndRoads]] - C Am ^ F C  - Am F C 
+[[Rivers And Roads]] - C Am ^ F C  - Am F C 
 
-[[Lovely]] - C Em Bm 
-
-[[RingOfFire]] - G < C D - D C G ^ D G ^
+[[Ring Of Fire]] - G < C D - D C G ^ D G ^
 
 [[And I Love Her]] - F#m C#m ^ A B7 E - C#m < B G#m * B - Gm Dm ^ Bb C7 F
 

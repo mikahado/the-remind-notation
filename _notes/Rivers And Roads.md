@@ -5,7 +5,8 @@ tags:
   - Folk
 ---
 
-### C Am ^ F C  - Am F C 
+### - C Am ^ F C  
+### - Am F C 
 
 A year from now, we'll all be gone  All our friends will move away  
 And they're goin' to better places  But our friends will be gone away

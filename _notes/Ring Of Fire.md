@@ -5,7 +5,8 @@ tags:
   - Country
 ---
 
-### G < C D - D C G ^ G D ^
+### - G < C D 
+### - D C G ^ G D ^
 
 Love is a burning thing, and it makes a fiery ring. 
 Bound by wild desire, I fell into a ring of fire. 

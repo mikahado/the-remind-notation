@@ -5,9 +5,9 @@ tags:
   - Alternative
 ---
 
-### Bm A Em F#m ^ 
-### Bm D ( Dmaj7 ) Em F#m ^ 
-### G A Bm ^
+### - Bm A Em F#m ^ 
+### - Bm D ( Dmaj7 ) Em F#m ^ 
+### - G A Bm ^
 
 Hold back Confide among the stars  
 We could be the lucky ones If we could only levitate  

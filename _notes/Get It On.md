@@ -5,7 +5,7 @@ tags:
   - Rock
 ---
 
-### A E - G A E
+### - A E - G A E
 
 Well, you're dirty and sweet  Clad in black, don't look back and I love you  
 You're dirty and sweet, oh yeah  Well, you're slim and you're weak  

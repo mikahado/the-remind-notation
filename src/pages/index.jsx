@@ -11,7 +11,7 @@ import { DefaultMenuStructure, MenuRoot } from '../utils/menu-structure'
 export default function Home() {
   const data = useStaticQuery(graphql`
     query HomeQuery {
-      homeNote: mdx(frontmatter: {slug: {eq: "home"}}) {
+      homeNote: mdx(frontmatter: { slug: { eq: "home" } }) {
         body
         fields {
           title
@@ -44,11 +44,12 @@ export default function Home() {
   `)
 
   let tagList = DefaultMenuStructure('tag-list')
-  tagList.push({ // Add a link to a page that shows all tags.
-    type:'page',
-    item:'tags',
+  tagList.push({
+    // Add a link to a page that shows all tags.
+    type: 'page',
+    item: 'tags',
     title: '...',
-    liClassName: 'pill'
+    liClassName: 'pill',
   })
 
   return data.homeNote ? (
@@ -57,7 +58,7 @@ export default function Home() {
         <div className="note-area">
           <h1 className="note-title">{data.homeNote.fields.title}</h1>
           <div className="note-content">
-            <MDXRenderer>{ data.homeNote.body }</MDXRenderer>
+            <MDXRenderer>{data.homeNote.body}</MDXRenderer>
           </div>
         </div>
       </div>
@@ -73,6 +74,34 @@ export default function Home() {
         {/* <div className="block tag-list">
           <MenuRoot menu={tagList} />
         </div> */}
+    
+    <div class="logo-container">
+    <svg
+        width="320"
+        height="320"
+        viewBox="0 0 80 80"
+        xmlns="http://www.w3.org/2000/svg"
+        class="trn-lead-logo"
+    >
+        <circle cx="40" cy="40" r="40" fill="#262626" />
+
+        <path
+            d="M0 40 
+            C 10 10, 25 25, 35 40
+            S 55 55, 60 40
+            S 75 10, 80 40"
+            stroke="#00FF00"
+            stroke-width="4"
+            fill="none"
+            stroke-linecap="round"
+        />
+    </svg>
+</div>
+
+
+
+
+      
 
         <div className="block">
           <Search size="medium" showExcerpt={true} />

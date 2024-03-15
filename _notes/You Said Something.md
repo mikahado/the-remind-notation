@@ -1,4 +1,5 @@
-### F C G ^ - Am D C *
+### - F C G ^ 
+### - Am D C ^
 
 On a rooftop in Brooklyn  At one in the mornin'    
 Watchin' the lights flash  In Manhattan    

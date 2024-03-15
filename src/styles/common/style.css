@@ -184,6 +184,8 @@ h6 {
 }
 
 
+
+
 /* Major third with base font 16px */
 @media screen and (min-width: 769px), print {
     html {
@@ -377,6 +379,31 @@ hr {
 }
 
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/
+
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Center the logo horizontally */
+    height: 50vh; /* Center the logo vertically */
+}
+
+.trn-lead-logo {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-radius: 180px;
+}
+
+@keyframes moveLeftToRight {
+    0% { transform: translateX(0px); }
+    100% { transform: translateX(-960px); }
+}
+
+#movingPath {
+    animation: fadeInOut 1s ease-in-out forwards,
+                   moveLeftToRight 20s linear infinite;
+}
+
 
 .site-heading-rtl {
     border-bottom: 2px solid var(--primary-border-color);
