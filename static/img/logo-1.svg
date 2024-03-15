@@ -1,0 +1,21 @@
+<div class="logo-container">
+    <svg
+        width="320"
+        height="320"
+        viewBox="0 0 80 80"
+        xmlns="http://www.w3.org/2000/svg"
+        class="trn-lead-logo"
+    >
+        <circle cx="40" cy="40" r="40" fill="#262626" />
+
+        <path
+            d="M0 40 
+            C 10 10, 20 70, 30 40
+            S 50 10, 60 40
+            S 70 70, 80 40"
+            stroke="#00FF00"
+            stroke-width="6"
+            fill="none"
+        />
+    </svg>
+</div>

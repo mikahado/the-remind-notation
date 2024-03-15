@@ -1,4 +1,10 @@
+
 The Remind Notation is a minimal, compact notation method designed for musicians performing live or jamming with others. It simplifies the presentation of chords and song structure into a single line of text, while also offering a concise display of song lyrics to avoid mid-performance scrolling.
+
+<div class="logo-container-2">
+  <img class="trn-lead-logo-main" src="img/logo-1.png" alt="Logo" style="width: 200px; height: auto;" />
+</div>
+
 
 ## How to Read TRN  
 

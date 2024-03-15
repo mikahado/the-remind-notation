@@ -385,11 +385,27 @@ hr {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%; /* Center the logo horizontally */
-    height: 50vh; /* Center the logo vertically */
+    margin-top: 20px;
+    margin-bottom: 70px;
 }
 
-.trn-lead-logo {
+.logo-container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    opacity: 90%;
+}
+
+.trn-lead-logo-main {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border-radius: 180px;
+    width: 50%;
+    height: 50%;
+}
+
+.trn-lead-logo-small {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
     border-radius: 180px;
 }

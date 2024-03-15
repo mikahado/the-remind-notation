@@ -81,22 +81,23 @@ export default function Home() {
         height="320"
         viewBox="0 0 80 80"
         xmlns="http://www.w3.org/2000/svg"
-        class="trn-lead-logo"
+        class="trn-lead-logo-main"
     >
         <circle cx="40" cy="40" r="40" fill="#262626" />
 
         <path
             d="M0 40 
-            C 10 10, 25 25, 35 40
+            C 15 10, 25 25, 35 40
             S 55 55, 60 40
-            S 75 10, 80 40"
+            S 70 10, 80 40"
             stroke="#00FF00"
-            stroke-width="4"
+            stroke-width="5"
             fill="none"
             stroke-linecap="round"
         />
     </svg>
 </div>
+
 
 
 

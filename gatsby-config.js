@@ -27,7 +27,7 @@ module.exports = {
     //   ... Same structure as headerMenu. You can have any depth level - multiple menus can be nested.
     // ],
 
-    hoverPreview: true // If true, shows the content of an internal link in a tooltip when hovering over the link.
+    hoverPreview: false // If true, shows the content of an internal link in a tooltip when hovering over the link.
   },
   plugins: [
     `gatsby-plugin-sharp`,

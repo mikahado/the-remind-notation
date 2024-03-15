@@ -21,6 +21,3 @@ Well, you're windy and wild  You've got the blues in your shoes and your stockin
 You're windy and wild, oh yeah  Well you're built like a car  
 You've got a hubcap diamond star halo  You're dirty, sweet and you're my girl
 
-### Notes 
-
-Return to [[The Song Book]]
