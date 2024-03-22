@@ -37,16 +37,21 @@ Am Em Am Em`
 ex. b
 **F** < Am C G == F Am F C F G`
 
+## Features
+
+- Compact notation format eliminates the need for scrolling mid-song.
+- Serves as a reference for musicians who have already learned a song.
+- Facilitates consistent and accurate performances.
+
 ## What is TNR not
 
-Remember, The Remind Notation is not designed for learning a song, but rather performing it well. TRM encourages musicians to bring more of their self and their memory to the piece. As such, TRN excludes some common musical elements such as:
+TRM encourages musicians to bring more of their self and their memory to the piece. To accomplish this, TRN excludes some common notations.
 
 1. No dynamics/articulation (how hard or soft to play)
 2. No tempo/metre/bars
 3. No technique (ie, which fingers to use, whether to strum or fingerpick, etc. )
 4. No repetition count (of how mamy times a section is repeated)
 5. No tablature
-
 
 ## Background
 
@@ -55,20 +60,6 @@ Hi! I'm Maika, the author of The Remind Notation (and this site). TRN was born o
 ## Philosophy
 
 TRN philosophy is that musicians play better, or at least with more heart, when they play from memory instead of following detailed directions. To use TRN, the musician should already know the nuances of a song, such as how many times to repeat certain parts, or what dynamic to use (soft, loud, etc). They should already know the riffs, solos, fills, and flairs. TRN simply serves as a reminder, to keep the player or the group on the same page, in a compact way that's easy to reference in a live or jam setting. 
-
-
-## Features
-
-- Compact notation format eliminates the need for scrolling mid-song.
-- Serves as a reference for musicians who have already learned a song.
-- Facilitates consistent and accurate performances.
-
-
-
-
-## Usage
-
-TRN is intended for musicians who have already learned a song and seek a compact reminder of its structure during performance or rehearsal.
 
 ## FAQs
 
