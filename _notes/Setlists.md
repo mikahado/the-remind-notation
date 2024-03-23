@@ -1,7 +1,7 @@
 A compact setlist of titles and chords in Remind Notation.
 
 
-## Rock Setlist
+## Setlist 1
 
 [[Get It On]] - A E - G A E
 
@@ -21,11 +21,13 @@ A compact setlist of titles and chords in Remind Notation.
 
 [[And I Love Her]] - F#m C#m ^ A B7 E - C#m < B G#m * B - Gm Dm ^ Bb C7 F
 
-[[Sea of Love]] - G B7 C A ^   
+[[Sea of Love]] - G B7 C A ^  
+
+[[ Shout ]] - Gm Ebmaj7 C ( F ) Gm ^ Bb C ^ Gm C
 
 ---
 
-## Jazz Setlist
+## Setlist 2
 
 [[Get It On]] - A E - G A E
 

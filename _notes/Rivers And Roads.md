@@ -6,7 +6,7 @@ tags:
 ---
 The Head and the Heart
 
-### - C Am ^ F C  
+### - C Am 2 F C  
 ### - Am F C 
 
 A year from now, we'll all be gone  All our friends will move away  

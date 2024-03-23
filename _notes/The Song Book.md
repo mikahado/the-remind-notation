@@ -9,3 +9,4 @@
 | [[Ring Of Fire]]            | Johnny Cash                   |
 | [[Baby Come To Me]]         | James Ingram and Patti Austin |
 | [[Sea of Love]]             | Phil Phillips                 |
+| [[Shout]]                   | Tears for Fears

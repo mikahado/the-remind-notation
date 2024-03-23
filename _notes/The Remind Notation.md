@@ -24,13 +24,13 @@ Verse - Chorus - Bridge`
 C Am ( F G ) 
 parens chords are transition notes` 
 
-" ^ " = carot indicates loop previous segment or chord
+" 2 " or " 4 ", etc. = number indicates specific amount times to loop
 
 `ex. 
-Am Em * 
-Am Em Am Em`
+Am Em 3 
+Am Em Am Em Am Em`
 
-" < or >" = structural note: arrow points to home/root chord to be played first. Then go back and forth with the chords on the opposite side of the operator
+" < or > " = structural note: arrow points to home/root chord to be played first. Then go back and forth with the chords on the opposite side of the operator
 
 `ex. a
 **C** > Bm F A == Bm C F C A C
