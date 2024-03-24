@@ -4,6 +4,7 @@ artist: Royal Blood
 tags: 
   - Rock
 ---
+*Royal Blood*
 
 ### - F ( D# ) D7 Gm A# C ^
 ### - F dm am C 

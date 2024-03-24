@@ -4,6 +4,7 @@ artist: The Beatles
 tags: 
   - Pop
 ---
+*The Beatles*
 ### - Dm Am ^ F G7 C 
 ### - Am < G Em ^ ( G )
 ### - T Em Bm G A7 D

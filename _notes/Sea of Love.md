@@ -4,7 +4,7 @@ artist: Phil Phillips
 tags: 
   - Soul
 ---
-Phil Phillips
+*Phil Phillips*
 
 ### - G B7 C A ^   
 

@@ -4,6 +4,7 @@ artist: Johnny Cash
 tags: 
   - Country
 ---
+*Johnny Cash*
 
 ### - G < C D 
 ### - D C G ^ G D ^

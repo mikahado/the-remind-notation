@@ -4,6 +4,7 @@ artist: T. Rex
 tags: 
   - Rock
 ---
+*T. Rex*
 
 ### - A E - G A E
 

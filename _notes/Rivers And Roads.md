@@ -4,7 +4,7 @@ artist: The Head and the Heart
 tags: 
   - Folk
 ---
-The Head and the Heart
+*The Head and the Heart*
 
 ### - C Am 2 F C  
 ### - Am F C 
