@@ -11,6 +11,5 @@
 | [[Sea of Love]]                | Phil Phillips                 |
 | [[Shout]]                      | Tears for Fears               |
 | [[Dream a Little Dream of Me]] | Ella Fitzgerald               |
-| [[Shout]]                      | Tears for Fears               |
-| [[Shout]]                      | Tears for Fears               |
-| [[Shout]]                      | Tears for Fears               |
+
+
