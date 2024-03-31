@@ -2,7 +2,7 @@
 The Remind Notation is a minimal, compact notation method designed for musicians playing live. TRM simplifies reading chords and song structure, giving an easy-to-read display of chords, structure, and lyrics.
 
 <div class="logo-container-2">
-  <img class="trn-lead-logo-main" src="img/logo-1.png" alt="Logo" style="width: 200px; height: auto;" />
+  <img class="trn-lead-logo-main" src="img/logo-1.svg" alt="Logo" style="width: 200px; height: auto;" />
 </div>
 
 
