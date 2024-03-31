@@ -3,11 +3,12 @@ title: Ring of Fire
 artist: Johnny Cash
 tags: 
   - Country
+  - Folk
 ---
 *Johnny Cash*
 
 ### - G < C D 
-### - D C G ^ G D ^
+### - D C G 2 G D 2
 
 Love is a burning thing, and it makes a fiery ring.   
 Bound by wild desire, I fell into a ring of fire.   

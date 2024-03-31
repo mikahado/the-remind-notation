@@ -7,9 +7,9 @@ tags:
 ---
 *Tears for Fears*
 
-### Gm Ebmaj7 C ( F ) Gm ^
-### Bb C ^
-### Gm C
+### - Gm Ebmaj7 C ( F ) Gm ^
+### - Bb C ^
+### - Gm C
 
 Shout  Shout Let it all out  
 These are the things I can do without  

@@ -1,7 +1,6 @@
 | Song                           | Artist                        |
 | ------------------------------ | ----------------------------- |
 | [[The World Retreats]]         | David O'Dowda                 |
-| [[Get It On]]                  | T. Rex                        |
 | [[There Goes My Cool]]         | Royal Blood                   |
 | [[You Said Something]]         | PJ Harvey                     |
 | [[Love Breaks The Machine]]    | Of Montreal                   |

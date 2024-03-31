@@ -12,38 +12,43 @@ Key symbols include dash for separating parts, parentheses for transitions or fi
 
 ### Glossary
 
-" - " = dash separates "parts", ie verse, chorus, bridge, instrumental, etc. 
+" - " = dash separates parts, ie verse, chorus, bridge, solo.
 
 ```
-ex. 
-D C G - F G - Am Em 
-Verse - Chorus - Bridge
+C G Am - F G C - Am F G
+= Verse - Chorus - Bridge
+```
+
+" ^ " = carot (up arrow) to loop a chord or progression for an unspecified number of times.
+
+```
+C G Am F ^ 
+= C G Am F C G Am F, etc.
+```
+
+" ^2 " or " ^4 ", etc. = numbers to loop for a specific amount times 
+
+```
+Am F ^3 G
+= Am F Am F Am F G
 ```
 
 " (    ) " = chords in parens indicate transitions or fills 
 
 ```
-ex. 
 C Am ( F G ) 
-parens chords are transition notes
+= F and G are both quarter notes
 ``` 
-
-" 2 " or " 4 ", etc. = number indicates specific amount times to loop
-
-```
-ex. 
-Am Em 3 
-Am Em Am Em Am Em
-```
 
 " < or > " = structural note: arrow points to home/root chord to be played first. Then go back and forth with the chords on the opposite side of the operator
 
 ```
-ex. 
-C > Bm F A == Bm C F C A C
-ex. 
-F < Am C G == F Am F C F G
+C > Am F G == Am C F C G C
+or
+G < Em C D == G Em G C G D
 ```
+
+Note: the above notation short-hand work for a wide variety of chord progressions, but of course, not all! Progressions that do not fit the Remind Notation should be written out explicitly.
 
 ## Features
 
@@ -51,7 +56,7 @@ F < Am C G == F Am F C F G
 - Serves as a reference for musicians who have already learned a song.
 - Facilitates consistent and accurate performances.
 
-## What TRN is not
+## What TRN isn't
 
 TRM encourages musicians to bring more of their self and their memory to the piece. To accomplish this, TRN excludes some common notations.
 

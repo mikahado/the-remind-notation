@@ -8,8 +8,8 @@ tags:
 *Ella Fitzgerald*
 
 ### - C B7 Ab G7 
-### -  C E7 A A7 
-### -  F Fm C Ab G G7  
+### - C E7 A A7 
+### - F Fm C Ab G G7  
 ### - A F#m Bm E ( Ab G )
 
 Stars shining bright above you Night breezes seem to whisper "I love you"  

@@ -353,11 +353,11 @@ th, td {
     color: var(--text-main);
     padding: 8px;
     text-align: left;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 td {
-   font-size: 14px;
+   font-size: 18px;
 }
 
 td a {

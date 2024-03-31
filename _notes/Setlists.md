@@ -1,5 +1,4 @@
-Setlists of titles and chords in Remind Notation.
-
+Song titles and chords for quick reference.
 
 ## Setlist 1
 
