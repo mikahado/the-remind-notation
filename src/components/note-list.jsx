@@ -35,8 +35,8 @@ export default function NoteList({ notes }) {
               ? data.node.fields.excerpt
               : data.node.excerpt}
           </p> */}
-
-          {/* { data.node.frontmatter.tags?.length ? 
+{/* 
+          { data.node.frontmatter.tags?.length ? 
           <p className="note-tag-list">
             by {' '}
             {data.node.frontmatter && data.node.frontmatter.tags

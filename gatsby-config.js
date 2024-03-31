@@ -4,7 +4,7 @@ module.exports = {
   trailingSlash: 'never', // Remove all trailing slashes on each URL, e.g. /x/ to /x
 
   siteMetadata: {
-    title: `The Remind Notation beta`,
+    title: `The Remind Notation (beta)`,
     description: `A Musical Notation for a New Era`,
 
     // siteUrl: `https://yoursite.com/notes/`, // URL at which your site will be published. This should be present if you want RSS feed.

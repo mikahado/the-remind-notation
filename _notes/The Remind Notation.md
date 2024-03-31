@@ -8,34 +8,42 @@ The Remind Notation is a minimal, compact notation method designed for musicians
 
 ## How to Read TRN  
 
-Key symbols include dash for separating parts, parentheses for transitions or fills, carot for repetition, and arrows for home progressions.
+Key symbols include dash for separating parts, parentheses for transitions or fills, carot for repetition, and arrows for rooted progressions.
 
 ### Glossary
 
 " - " = dash separates "parts", ie verse, chorus, bridge, instrumental, etc. 
 
-`ex. 
+```
+ex. 
 D C G - F G - Am Em 
-Verse - Chorus - Bridge`
+Verse - Chorus - Bridge
+```
 
 " (    ) " = chords in parens indicate transitions or fills 
 
-`ex. 
+```
+ex. 
 C Am ( F G ) 
-parens chords are transition notes` 
+parens chords are transition notes
+``` 
 
 " 2 " or " 4 ", etc. = number indicates specific amount times to loop
 
-`ex. 
+```
+ex. 
 Am Em 3 
-Am Em Am Em Am Em`
+Am Em Am Em Am Em
+```
 
 " < or > " = structural note: arrow points to home/root chord to be played first. Then go back and forth with the chords on the opposite side of the operator
 
-`ex. a
-**C** > Bm F A == Bm C F C A C
-ex. b
-**F** < Am C G == F Am F C F G`
+```
+ex. 
+C > Bm F A == Bm C F C A C
+ex. 
+F < Am C G == F Am F C F G
+```
 
 ## Features
 
@@ -43,15 +51,15 @@ ex. b
 - Serves as a reference for musicians who have already learned a song.
 - Facilitates consistent and accurate performances.
 
-## What is TNR not
+## What TRN is not
 
 TRM encourages musicians to bring more of their self and their memory to the piece. To accomplish this, TRN excludes some common notations.
 
-1. No dynamics/articulation (how hard or soft to play)
-2. No tempo/metre/bars
-3. No technique (ie, which fingers to use, whether to strum or fingerpick, etc. )
-4. No repetition count (of how mamy times a section is repeated)
-5. No tablature
+- No dynamics/articulation (how hard or soft to play)
+- No tempo/metre/bars
+- No technique (ie, which fingers to use, whether to strum or fingerpick, etc. )
+- No repetition count (of how mamy times a section is repeated)
+- No tablature
 
 ## Background
 
@@ -59,7 +67,7 @@ Hi! I'm Maika, the author of The Remind Notation (and this site). TRN was born o
 
 ## Philosophy
 
-TRN philosophy is that musicians play better, or at least with more heart, when they play from memory instead of following detailed directions. To use TRN, the musician should already know the nuances of a song, such as how many times to repeat certain parts, or what dynamic to use (soft, loud, etc). They should already know the riffs, solos, fills, and flairs. TRN simply serves as a reminder, to keep the player or the group on the same page, in a compact way that's easy to reference in a live or jam setting. 
+TRN philosophy is that musicians play better, or at least with more heart, when they play from memory instead of reading directions. To use TRN, the musician should already know the nuances of a song, such as how many times to repeat certain parts, or what dynamic to use (soft, loud, etc). They should already know the riffs, solos, fills, and flairs. TRN simply serves as a reminder, to keep the player or the group on the same page, in a compact way that's easy to reference in a live or jam setting. 
 
 ## FAQs
 

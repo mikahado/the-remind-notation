@@ -49,7 +49,7 @@ export default function Search({ showExcerpt, size }) {
             {results.map(result => (
               <li key={result.slug}>
                 <Link to={result.slug}>{result.title}</Link>
-                {showExcerpt ? <p>{result.excerpt}</p> : null}
+                {/* {showExcerpt ? <p>{result.excerpt}</p> : null} */}
               </li>
             ))}
           </ul>

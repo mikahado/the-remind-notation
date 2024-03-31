@@ -7,8 +7,8 @@ export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
     // Default Menu.
     { type: 'page', item: 'the-remind-notation', title: 'Overview'},
-    { type: 'page', item: 'the-song-book', title: 'The Song Book' },
-    { type: 'page', item: 'play-list', title: 'Play List'},
+    { type: 'page', item: 'song-book', title: 'Song Book' },
+    { type: 'page', item: 'setlists', title: 'Setlists'},
     { type: 'page', item: 'tags', title: 'Genre' },
   ]
   let structure = null

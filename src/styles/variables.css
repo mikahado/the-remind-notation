@@ -1,11 +1,11 @@
 /* Light Mode */
 body {
-  --bg-main: #FFFFFF;
-  --bg-sub: #FAFAFC;
+  --bg-main: #d1cdcd;
+  --bg-sub: #adadaf;
   --color-bis: #363636;
   --text-main: #18181C;
   --text-sub: #5D5D67;
-  --link: #1D7C44; /* Complementary darker green */
+  --link: #1D7C44; 
   --border: #E5E5E5;
 }
 
@@ -16,7 +16,7 @@ body.dark {
   --color-bis: #E6E6E6;
   --text-main: #FAFAFC;
   --text-sub: #FFFFFF;
-  --link:  #D8B6E0; /* Same green as above */
+  --link:  #D8B6E0; 
   --border: #353535;
 }
 
