@@ -23,6 +23,13 @@ C G Am - F G C - Am F G
 = Verse - Chorus - Bridge
 ```
 
+" / " = slash separates parts within a part 
+
+```
+- C B7 Ab G7 / C E7 A A7 
+= both mini-parts are within the verse
+```
+
 " ^ " = carot (up arrow) to loop chords:
 
 ```

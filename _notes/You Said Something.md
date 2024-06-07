@@ -6,6 +6,7 @@ tags:
 ---
 *PJ Harvey* 
 
+Key: 
 ### - F C G ^ 
 ### - Am D C ^
 
@@ -27,5 +28,4 @@ And you said somethin'  That I've never forgotten
 You said somethin'  You said somethin'    
 You said somethin'  That was really important  
 
-### Notes
 

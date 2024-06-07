@@ -6,6 +6,7 @@ tags:
 ---
 *Of Montreal*
 
+Key: 
 ### - Bm > G Em ( am Bm7 Cm7 ) 
 ### - Cm7 Eb ( F# ) 
 

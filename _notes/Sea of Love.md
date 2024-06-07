@@ -6,6 +6,7 @@ tags:
 ---
 *Phil Phillips*
 
+Key: 
 ### - G B7 C A ^   
 
 Come with me My love To the sea The sea of love  

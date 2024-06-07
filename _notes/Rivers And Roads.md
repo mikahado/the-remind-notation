@@ -6,6 +6,7 @@ tags:
 ---
 *The Head and the Heart*
 
+Key: 
 ### - C Am 2 F C  
 ### - Am F C 
 

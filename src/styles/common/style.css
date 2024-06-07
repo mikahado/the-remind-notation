@@ -414,10 +414,10 @@ hr {
 }
 
 .trn-lead-logo-main {
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 8.0px 16.0px 16.0px hsl(0deg 0% 0% / 0.25);
     border-radius: 180px;
-    width: 200px; /* Specify your desired width */
-    height: 200px;
+    width: 150px; /* Specify your desired width */
+    height: 150px;
     align-items: center;
     
 }

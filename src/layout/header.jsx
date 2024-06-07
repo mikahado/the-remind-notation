@@ -154,7 +154,7 @@ export default function Header({ title, type, description }) {
        C 1750 10, 1760 70, 1770 40
        C 1780 15, 1790 65, 1800 40"
     stroke="#00FF00"
-    stroke-width="6"
+    stroke-width="3"
     fill="none"
 />
           </svg>

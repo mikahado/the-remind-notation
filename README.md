@@ -26,8 +26,3 @@ TRN operates on the principle that musicians perform best when playing from memo
 
 TRN is intended for musicians who have already learned a song and seek a compact reminder of its structure during performance or rehearsal.
 
-## FAQs
-
-**Q: How is PRON different from other musical notation?**  
-A: PRON omits time and dynamic indicators, focusing solely on chord and structure reminders. It encourages musicians to inject their personal interpretation into the performance, making it ideal for jam sessions.
-

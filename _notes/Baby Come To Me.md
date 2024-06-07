@@ -5,6 +5,8 @@ tags:
   - Soul
 ---
 *James Ingram and Patti Austin*
+
+Key: 
 ### - Am7 D ^ F G ^  
 ### - Bbmaj7 Am7 Ab G ( F G ) 
 ### - Cm7 ( Fm7  AbM7  Fm9 ) Gm7 ( EbM7 Fdim || Dm7 Fdim Cm7 ) 

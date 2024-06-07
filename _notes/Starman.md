@@ -6,6 +6,8 @@ tags:
   - Rock
 ---
 *David Bowie*
+
+Key: 
 ### - Gm F C ( F Ab Bb - A G ) 
 ### - F Dm Am C 
 ### - Bb Bbm F F# Gm C 

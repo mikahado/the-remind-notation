@@ -5,6 +5,8 @@ tags:
   - Pop
 ---
 *The Beatles*
+
+Key: 
 ### - Dm Am ^ F G7 C 
 ### - Am < G Em ^ ( G )
 ### - T Em Bm G A7 D
