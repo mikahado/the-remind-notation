@@ -6,7 +6,7 @@ import { camelCase, startCase } from 'lodash'
 export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
     // Default Menu.
-    { type: 'page', item: 'the-remind-notation', title: 'Primer'},
+    { type: 'page', item: 'the-remind-notation', title: 'About'},
     { type: 'page', item: 'song-book', title: 'Song Book' },
     { type: 'page', item: 'setlists', title: 'Setlists'},
     { type: 'page', item: 'tags', title: 'Genre' },

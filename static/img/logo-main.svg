@@ -1,0 +1,17 @@
+<svg
+            viewBox="0 0 80 80"
+            xmlns="http://www.w3.org/2000/svg"
+            className="trn-lead-logo-main"
+          >
+            <circle cx="40" cy="40" r="40" fill="#18181C" />
+            <path
+              d="M0 40 
+                C 15 10, 25 25, 35 40
+                S 55 55, 60 40
+                S 70 10, 80 40"
+              stroke="#00FF00"
+              strokeWidth="5"
+              fill="none"
+              strokeLinecap="round"
+            />
+          </svg>

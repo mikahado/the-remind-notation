@@ -2,12 +2,13 @@ import React, { useEffect } from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import { MDXRenderer } from 'gatsby-plugin-mdx';
 import Layout from '../layout/layout';
-import NoteList from '../components/note-list';
+// import NoteList from '../components/note-list';
 import Search from '../components/search';
 import '../styles/index.css';
 import { DefaultMenuStructure, MenuRoot } from '../utils/menu-structure';
 
 export default function Home() {
+
   const data = useStaticQuery(graphql`
     query HomeQuery {
       homeNote: mdx(frontmatter: { slug: { eq: "home" } }) {
@@ -81,23 +82,7 @@ export default function Home() {
     <Layout title="Home" type="home">
       <div className="column is-half">
         <div className="logo-container">
-          <svg
-            viewBox="0 0 80 80"
-            xmlns="http://www.w3.org/2000/svg"
-            className="trn-lead-logo-main"
-          >
-            <circle cx="40" cy="40" r="40" fill="#262626" />
-            <path
-              d="M0 40 
-                C 15 10, 25 25, 35 40
-                S 55 55, 60 40
-                S 70 10, 80 40"
-              stroke="#00FF00"
-              strokeWidth="5"
-              fill="none"
-              strokeLinecap="round"
-            />
-          </svg>
+          <img class="trn-lead-logo-main" src="img/logo-main.svg" alt="Logo"  />
         </div>
 
         <div className="block">

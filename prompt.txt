@@ -1,7 +1,7 @@
 I want to teach you a new musical notation method. Here is the ReadMe:
 
 The Remind Notation
-The Remind Notation is a minimal, compact notation method designed for musicians performing live or jamming with others. It simplifies the presentation of chords and song structure into a single line of text, while also offering a concise display of song lyrics to avoid mid-performance scrolling.
+The Remind Notation (TRN) is a stripped-back notation syntax for musicians. TRN displays only the essentials: chords, lyrics, and  structure, in a single line of text. Thanks to TRN's compact, "don't repeat yourself" notation, musicians don't have to scrol mid-song any longer.
 
 Logo
 How to Read TRN
