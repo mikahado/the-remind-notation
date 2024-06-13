@@ -7,6 +7,7 @@ export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
     // Default Menu.
     { type: 'page', item: 'the-remind-notation', title: 'About'},
+    { type: 'page', item: '#', title: 'Search'},
     { type: 'page', item: 'song-book', title: 'Song Book' },
     { type: 'page', item: 'setlists', title: 'Setlists'},
     { type: 'page', item: 'tags', title: 'Genre' },
