@@ -11,54 +11,40 @@ Key symbols include:
 - "-" for separating parts
 - "(  )" for transitions/fills
 - "^" for repetition
-- "<" or ">" for structural notes
 
 ### Glossary
 
 " - " = dash separates parts of a song:
 
 ```
+ex.
 C G Am - F G C - Am F G
 = Verse - Chorus - Bridge
 ```
 
-" / " = slash separates parts within a part 
+" ^ " = carot (up arrow) to remind you to repeat previous chords some number of times:
 
 ```
-- C B7 Ab G7 / C E7 A A7 
-= both mini-parts are within the verse
+ex.
+C G ^ Am F  
+= C G C G C G Am F 
 ```
 
-" ^ " = carot (up arrow) to loop chords:
-
-```
-C G Am F ^ 
-= C G Am F C G Am F, etc.
-```
-
-" ^2 " or " ^4 ", etc. = loop for a specific times: 
-
-```
-Am F ^3 G
-= Am F Am F Am F G
-```
-
-" (    ) " = transitions/fills 
+" (    ) " = chords in parenthesis designate transitions/fills 
 
 ```
 C Am ( F G ) 
 = F and G are quarter notes
-``` 
 
-" < or > " = structural note: arrow points to home/root chord to be played first. Then go back and forth with the chords on the opposite side of the operator
+" / " = forward slash shows different parts to alternate between
 
 ```
-C > Am F G == Am C F C G C
-or
-G < Em C D == G Em G C G D
+ex.
+G Em (Am C / D G )^
+= first time, play the left side of slash; second time, play the right side of slash; repeat
 ```
 
-Note: the above notation short-hand work for a wide variety of chord progressions, but of course, not all! Progressions that do not fit the Remind Notation should be written out explicitly.
+Note: TRN is short-hand notation for a wide variety of chord progressions, but of course, not all fit perfectly in it! Progressions that do not fit the Remind Notation should be written out explicitly.
 
 ## Features
 
@@ -78,11 +64,11 @@ TRM encourages memory-based performances.
 
 ## Background
 
-Hi! I'm Maika, the author of The Remind Notation (and this site). TRN was born out of a frustration I had while performing live, rehearsing, or jamming with friends. If we all wanted to see the chords and lyrics to a song, one of us would have to be the page-turner and scroll up and down the page for everyone. There have been some attempts to solve this with auto-scroll, which is a pain to synchronize to the temp of a song. Or you could hook up a pedal to turn the pages. But I wanted to create a better way, where any average length song could be seen and played on less than a single page. So I invented The Remind Notation, the notation that brings out the best in your performance.  
+Hi! I'm Maika, the creator of The Remind Notation. TRN was born out of a frustration I had with looking up chords online. Someone would always have to interupt their playing to scroll down a page, and auto-scroll never worked well for me. Also, the lyrics with chords on top simply looked messy. Like many musicians, I'd sometimes have a "cheat sheet" with super-condensed chords for songs to serve simply as a REMINDER of the song. Whether performing live, rehearsing, or jamming with friends, that's usually all I would need, if at all. So I wanted to create a better option online, where any average length song could be seen and played on less than a single page. 
 
 ## Philosophy
 
-TRN believes musicians play better, or at least with more heart, when they from memory. 🧠 It's a reminder, not a crutch. Musicians should already know the nuances of the song -- the structure, dynamics, riffs, solos, etc. TRN serves as a reminder, to keep everyone on track in a compact, live-friendly format. 🎶
+I believe musicians play better, when they play from their heart and from memory. 🧠 The Remind Notation is simply a reminder for songs you already know well enough. The nuances of the song -- the structure, dynamics, riffs, solos, etc, are not included in TRN. It's only a reminder, to keep everyone on track in a compact, live-friendly format. 🎶
 
 ## FAQs
 
