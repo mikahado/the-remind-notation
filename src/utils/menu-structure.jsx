@@ -69,7 +69,7 @@ export const DefaultMenuStructure = (menuType = 'main') => {
       .slice(0, 10) // Get the top 10 tags.
 
     if (tagList.length) {
-      structure[3].menu = tagList.map(tag => {
+      structure[4].menu = tagList.map(tag => {
         return { type: 'tag', item: tag.fieldValue }
       })
     } else {

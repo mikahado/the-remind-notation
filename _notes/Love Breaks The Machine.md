@@ -18,6 +18,4 @@ Everything's born in shame, it's not just me, particle way duality
 I know that we'll never survive this little victory  
 
 How can we ever evolve when our gods are so primitive?  
-  
-They destroy our hope for peace,  
-Hope for love, ooh
+They destroy our hope for peace, Hope for love, ooh
