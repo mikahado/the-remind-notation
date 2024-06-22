@@ -9,7 +9,7 @@ tags:
 Key: 
 ### - Am7 D ^ F G ^  
 ### - Bbmaj7 Am7 Ab G ( F G ) 
-### - Cm7 ( Fm7  AbM7  Fm9 ) Gm7 ( EbM7 Fdim || Dm7 Fdim Cm7 ) 
+### - Cm7 (Fm7  AbM7  Fm9) Gm7 (EbM7 Fdim / Dm7 Fdim Cm7) 
 ### - AbM7 Cm7 Ab EbM7 - Bbm Fm7 Db F
 
 Thinkin' back in time  When love was only in my mind  I realize, 

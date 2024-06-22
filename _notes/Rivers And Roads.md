@@ -7,7 +7,7 @@ tags:
 *The Head and the Heart*
 
 Key: 
-### - C Am 2 F C  
+### - C Am ^ F C  
 ### - Am F C 
 
 A year from now, we'll all be gone  All our friends will move away  

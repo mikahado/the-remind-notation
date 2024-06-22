@@ -5,9 +5,9 @@ tags:
   - Pop
 ---
 
-# C Am Em 
-# F G C (Am)^
-# Em F G
+### - C Am Em 
+### - F G C (Am)^
+### - Em F G
 
 Cuando calienta el sol Aquí en la playa
 Siento tu cuerpo vibrar Cerca de mi

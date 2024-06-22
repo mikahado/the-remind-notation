@@ -8,7 +8,7 @@ tags:
 *Tom Waits*
 
 Key: 
-### Cm Fm G Cm Ab G ( Cm )
+### - Cm Fm G Cm Ab G ( Cm )
 
 Lay your head where my heart used to be  Hold the earth above me  
 Lay down in the green grass  Remember when you loved me.    

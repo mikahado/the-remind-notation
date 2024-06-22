@@ -8,8 +8,8 @@ tags:
 *Johnny Cash*
 
 Key: 
-### - G < C D 
-### - D C G 2 G D 2
+### - G C G D 
+### - D C G ^ G D ^
 
 Love is a burning thing, and it makes a fiery ring.   
 Bound by wild desire, I fell into a ring of fire.   

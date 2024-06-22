@@ -8,8 +8,8 @@ tags:
 
 Key: 
 ### - Dm Am ^ F G7 C 
-### - Am < G Em ^ ( G )
-### - T Em Bm G A7 D
+### - Am < G Em ^ (G)
+### - Em Bm ^ G A7 D
 
 I give her all my love  That's all I do  
 And if you saw my love  You'd love her too  I love her
