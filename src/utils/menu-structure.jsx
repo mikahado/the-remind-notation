@@ -3,15 +3,44 @@ import siteConfig from '../../gatsby-config'
 import { useStaticQuery, graphql, Link } from 'gatsby'
 import { camelCase, startCase } from 'lodash'
 
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faMusic, faBook, faList, faGuitar, faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
+
+
+
 export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
-    // Default Menu.
-    { type: 'page', item: 'the-remind-notation', title: 'About'},
-    { type: 'page', item: 'song-book', title: 'Song Book' },
-    { type: 'page', item: 'setlists', title: 'Setlists'},
-    { type: 'page', item: 'tags', title: 'Genre' },
-  ]
+  // Default Menu.
+  { type: 'page', item: 'the-remind-notation', title: (
+    <span>
+      <FontAwesomeIcon icon={faGuitar} /> <span className="menu-title">About</span>
+    </span>
+  )},
+  { type: 'page', item: 'song-book', title: (
+    <span>
+      <FontAwesomeIcon icon={faBook} /> <span className="menu-title">Song Book</span>
+    </span>
+  )},
+  { type: 'page', item: 'setlists', title: (
+    <span>
+      <FontAwesomeIcon icon={faList} /> <span className="menu-title">Setlists</span>
+    </span>
+  )},
+  { type: 'page', item: 'tags', title: (
+    <span>
+      <FontAwesomeIcon icon={faMusic} /> <span className="menu-title">Genre</span>
+    </span>
+  )},
+  { type: 'page', item: '#', title: (
+    <span className="menu-item">
+      <FontAwesomeIcon icon={faMagnifyingGlass} flip="horizontal" /> <span className="menu-title"></span>
+    </span>
+  )}
+];
   let structure = null
+
+  
 
   const { allMdx } = useStaticQuery(
     graphql`
@@ -25,6 +54,7 @@ export const DefaultMenuStructure = (menuType = 'main') => {
       }
     `
   )
+
 
   if (menuType === 'main') {
     if (siteConfig.siteMetadata.menu !== undefined) {

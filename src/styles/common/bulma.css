@@ -2450,7 +2450,7 @@ body.has-navbar-fixed-bottom {
   color: var(--text-main);
   display: block;
   line-height: 1.5;
-  padding: 0.5rem 0.75rem;
+  padding: 1rem 1rem;
   position: relative; }
   .navbar-item .icon:only-child,
   .navbar-link .icon:only-child {

@@ -1655,8 +1655,17 @@ label.margin-toggle:not(.sidenote-number) {
 
 @media screen and (max-width: 768px) {
     p {
-      font-size: 12px; /* Size for screens narrower than 769px (phones) */
+      font-size: 14px; /* Size for screens narrower than 769px (phones) */
     }
   }
 
+ 
+ 
+  
+  .menu-title {
+    padding-right: 15px; /* Adjust padding between icon and title as needed */
+  }
+  
+  
 }
+
