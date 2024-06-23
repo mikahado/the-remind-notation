@@ -20,6 +20,8 @@ export default function Search({ showExcerpt, size }) {
   const [query, setQuery] = React.useState('')
   const results = useFlexSearch(query, index, store)
 
+  
+
   let inputClassName = 'input is-small'
   if (size === 'medium') {
     inputClassName = 'input is-medium'
@@ -49,6 +51,8 @@ export default function Search({ showExcerpt, size }) {
             {results.map(result => (
               <li key={result.slug}>
                 <Link to={result.slug}>{result.title}</Link>
+                {console.log(result)}
+                <p>{result.artist}</p>
                 {/* {showExcerpt ? <p>{result.excerpt}</p> : null} */}
               </li>
             ))}

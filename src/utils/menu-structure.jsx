@@ -7,14 +7,12 @@ export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
     // Default Menu.
     { type: 'page', item: 'the-remind-notation', title: 'About'},
-    { type: 'page', item: '#', title: 'Search'},
     { type: 'page', item: 'song-book', title: 'Song Book' },
     { type: 'page', item: 'setlists', title: 'Setlists'},
     { type: 'page', item: 'tags', title: 'Genre' },
   ]
   let structure = null
 
-  // If nothing exists, use the default menu, with a few mods.
   const { allMdx } = useStaticQuery(
     graphql`
       query {
@@ -69,7 +67,7 @@ export const DefaultMenuStructure = (menuType = 'main') => {
       .slice(0, 10) // Get the top 10 tags.
 
     if (tagList.length) {
-      structure[4].menu = tagList.map(tag => {
+      structure[3].menu = tagList.map(tag => {
         return { type: 'tag', item: tag.fieldValue }
       })
     } else {

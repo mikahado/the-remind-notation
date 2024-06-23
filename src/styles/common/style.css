@@ -161,7 +161,7 @@ main {
 /* Minor third with base font 14px */
 
 p {
-    font-size: 20px; /* Adjust the size according to your preference */
+    font-size: 20px; 
 }
 
 h1 {
@@ -353,7 +353,7 @@ th, td {
     color: var(--text-main);
     padding: 8px;
     text-align: left;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 td {
@@ -790,7 +790,7 @@ hr {
     padding-left: 0; 
     margin-bottom: 0.25rem; 
     list-style: none; 
-    font-size: 14px !important; 
+    font-size: 18px !important; 
 }
 
 .search-results-list-item { 
@@ -1032,7 +1032,7 @@ hr {
     float: right;
     clear: right;
     font-family:  var(--secondary-font-family) !important;
-    font-size: 14px;
+    font-size: 18px;
     margin-right: -50%;
     width: 30%;
     margin-top: 0;
@@ -1047,7 +1047,7 @@ hr {
     float: left;
     clear: left;
     font-family:  var(--secondary-font-family) !important;
-    font-size: 14px;
+    font-size: 16px;
     margin-left: -50%;
     width: 30%;
     margin-top: 0;
@@ -1079,7 +1079,7 @@ hr {
 .sn-right:before,
 .sn-left:before {
     content: counter(sidenote-counter) " ";
-    font-size: 14px;
+    font-size: 18px;
     top: -0.5rem; 
 }
 
@@ -1652,4 +1652,11 @@ label.margin-toggle:not(.sidenote-number) {
 .related-wrapper {
   grid-template-columns: repeat(1, 1fr);
 }
+
+@media screen and (max-width: 768px) {
+    p {
+      font-size: 12px; /* Size for screens narrower than 769px (phones) */
+    }
+  }
+
 }

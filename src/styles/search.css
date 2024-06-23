@@ -10,24 +10,30 @@ form.search-form input {
 form .search-result {
   background-color: var(--bg-main);
   position: absolute;
-  top: 40px;
+  top: 60px;
   left: 0;
-  padding: 10px;
+  padding: 20px;
   width: 100%;
   /* border: 1px solid var(--border); */
 }
 form .search-result:hover {
   background-color: var(--bg-main);
 }
+
 form .search-result ul {
-  list-style: none;
+  list-style: circle inside; 
   margin: 0;
   padding: 0;
+  font-size: 18px;
+}
+
+form .search-result li {
+  margin-bottom: 8px; /* Increase the space between list items */
 }
 
 .search-result p {
   padding-left: 1rem;
   border-left: 1px solid var(--text-main);
   margin-left: .5rem;
-  font-size: small;
+  font-size: 18px;
 }

@@ -1,8 +1,4 @@
-Certainly. Let's use a different formatting approach that doesn't involve code fences but still distinguishes the examples clearly. Here's a revised version:
-
----
-
-The Remind Notation (TRN) is a stripped-back notation syntax for musicians. TRN displays only the essentials: chords, lyrics, and structure, in a single line of text. Thanks to TRN's compact, "don't repeat yourself" notation, musicians don't have to scroll mid-song any longer.
+The Remind Notation (TRN) is a streamlined musical shorthand featuring chords, lyrics, and song structure in a single line, designed to eliminate mid-song scrolling and serve as a quick, memory-aiding reference for musicians.
 
 <div class="logo-container-2">
   <img class="trn-lead-logo-main" src="img/logo-1.svg" alt="Logo" />
