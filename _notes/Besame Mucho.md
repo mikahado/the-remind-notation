@@ -1,6 +1,6 @@
 ---
 title: Besame Mucho
-artist: The Beatles
+artist: Consuelo Velázquez
 tags: 
   - Traditional
   - Pop
@@ -12,11 +12,9 @@ Key:
 ### - Em Am B7 Em
 ### - E7 Am Em C7 B7 Em
 
-Besame, besame mucho. Each time I cling to your kiss I hear music divine.
-Besame, besame mucho. Love me forever say that you'll always be mine   
+Bésame, bésame mucho Como si fuera esta noche la última vez
+Bésame, bésame mucho Que tengo miedo a perderte, perderte después  
 
-Dearest one if you should leave me. Then each little dream will take wings and my life will be through
-Besame, besame mucho. Love me forever and make all my dreams come true   
+Quiero tenerte muy cerca Mirarme en tus ojos, verte junto a mí
+Piensa que tal vez mañana Yo ya estaré lejos, muy lejos de ti
 
-This joy is something new my arms enfolding you. Never new this love before     
-I never thought i'd be holding you close to me. Whispering it's you I adore   

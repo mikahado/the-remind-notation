@@ -13,7 +13,7 @@ import {
   MenuItemExternalLink,
 } from '../utils/menu-structure'
 
-import DarkMode from '../components/dark-mode'
+// import DarkMode from '../components/dark-mode'
 
 export default function Header({ title, type, description }) {
   const menu = DefaultMenuStructure('header')
@@ -30,8 +30,6 @@ export default function Header({ title, type, description }) {
     target.classList.toggle('is-active')
   }
 
-  // :TODO:
-  // <meta content="{{ site.url }}{{ page.url }}" property="og:url"> - NOTE: site.url might NOT be there in the config file.
 
   return (
     <>
@@ -163,9 +161,9 @@ export default function Header({ title, type, description }) {
 
             <h4>{siteConfig.siteMetadata.title || 'The Remind Notation beta'}</h4>
           </Link>
-          <div className="navbar-item navbar-dark-mode__mobile is-hidden-tablet">
+          {/* <div className="navbar-item navbar-dark-mode__mobile is-hidden-tablet">
             <DarkMode />
-          </div>
+          </div> */}
           <button
             className="navbar-burger button-link"
             aria-label="menu"
@@ -218,9 +216,9 @@ export default function Header({ title, type, description }) {
             {/* <div className="navbar-item">
               <Search size="small" showExcerpt={false} />
             </div> */}
-            <div className="navbar-item">
+            {/* <div className="navbar-item">
               <DarkMode />
-            </div>
+            </div> */}
           </div>
         </div>
       </nav>

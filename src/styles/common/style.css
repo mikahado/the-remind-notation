@@ -1400,7 +1400,6 @@ label.srs-toggle {
   
   .home-title {
     font-size: 2.5em;
-    color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-weight: bold;
@@ -1658,9 +1657,6 @@ label.margin-toggle:not(.sidenote-number) {
       font-size: 14px; /* Size for screens narrower than 769px (phones) */
     }
   }
-
- 
- 
   
   .menu-title {
     padding-right: 15px; /* Adjust padding between icon and title as needed */

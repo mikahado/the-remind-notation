@@ -1,11 +1,11 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import { graphql, useStaticQuery } from 'gatsby'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
 import Layout from '../layout/layout'
-// import NoteList from '../components/note-list';
 import Search from '../components/search'
 import '../styles/index.css'
-import { DefaultMenuStructure, MenuRoot } from '../utils/menu-structure'
+import { DefaultMenuStructure } from '../utils/menu-structure'
+import DarkMode from '../components/dark-mode'
 
 export default function Home() {
   const data = useStaticQuery(graphql`
@@ -43,27 +43,18 @@ export default function Home() {
     }
   `)
 
-  let tagList = DefaultMenuStructure('tag-list')
-  tagList.push({
-    // Add a link to a page that shows all tags.
-    type: 'page',
-    item: 'tags',
-    title: '...',
-    liClassName: 'pill',
-  })
+  const [theme, setTheme] = useState('light')
+
+  const toggleTheme = () => {
+    const newTheme = theme === 'dark' ? 'light' : 'dark'
+    console.log(newTheme)
+    setTheme(newTheme)
+    document.documentElement.setAttribute('data-theme', newTheme)
+  }
 
   useEffect(() => {
-    const handleKeyPress = event => {
-      if (event.key === 'Enter') {
-        event.preventDefault()
-      }
-    }
-
-    document.body.addEventListener('keypress', handleKeyPress)
-
-    return () => {
-      document.body.removeEventListener('keypress', handleKeyPress)
-    }
+    const currentTheme = document.documentElement.getAttribute('data-theme')
+    setTheme(currentTheme || 'light')
   }, [])
 
   return data.homeNote ? (
@@ -87,12 +78,10 @@ export default function Home() {
         <h4 className="home-byline">Streamlined Chords: Play Without Pause</h4>
         <br />
         
-          <div className="logo-container">
-            <img
-              class="trn-lead-logo-main"
-              src="img/logo-main.svg"
-              alt="The Remind Notation Logo"
-            />
+        
+
+        <div>
+            <DarkMode />
           </div>
       
       </div>
