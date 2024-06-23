@@ -1,14 +1,13 @@
-import React, { useEffect } from 'react';
-import { graphql, useStaticQuery } from 'gatsby';
-import { MDXRenderer } from 'gatsby-plugin-mdx';
-import Layout from '../layout/layout';
+import React, { useEffect } from 'react'
+import { graphql, useStaticQuery } from 'gatsby'
+import { MDXRenderer } from 'gatsby-plugin-mdx'
+import Layout from '../layout/layout'
 // import NoteList from '../components/note-list';
-import Search from '../components/search';
-import '../styles/index.css';
-import { DefaultMenuStructure, MenuRoot } from '../utils/menu-structure';
+import Search from '../components/search'
+import '../styles/index.css'
+import { DefaultMenuStructure, MenuRoot } from '../utils/menu-structure'
 
 export default function Home() {
-
   const data = useStaticQuery(graphql`
     query HomeQuery {
       homeNote: mdx(frontmatter: { slug: { eq: "home" } }) {
@@ -42,30 +41,30 @@ export default function Home() {
         }
       }
     }
-  `);
+  `)
 
-  let tagList = DefaultMenuStructure('tag-list');
+  let tagList = DefaultMenuStructure('tag-list')
   tagList.push({
     // Add a link to a page that shows all tags.
     type: 'page',
     item: 'tags',
     title: '...',
     liClassName: 'pill',
-  });
+  })
 
   useEffect(() => {
-    const handleKeyPress = (event) => {
+    const handleKeyPress = event => {
       if (event.key === 'Enter') {
-        event.preventDefault();
+        event.preventDefault()
       }
-    };
+    }
 
-    document.body.addEventListener('keypress', handleKeyPress);
+    document.body.addEventListener('keypress', handleKeyPress)
 
     return () => {
-      document.body.removeEventListener('keypress', handleKeyPress);
-    };
-  }, []);
+      document.body.removeEventListener('keypress', handleKeyPress)
+    }
+  }, [])
 
   return data.homeNote ? (
     <Layout title={data.homeNote.fields.title} type="home">
@@ -80,20 +79,23 @@ export default function Home() {
     </Layout>
   ) : (
     <Layout title="Home" type="home">
-      
-      <div className="column is-half">
-        <div className="logo-container">
-          <img class="trn-lead-logo-main" src="img/logo-main.svg" alt="Logo"  />
-        </div>
+      <br />
+      <div className="block">
+        <Search size="medium" showExcerpt={true} />
+        <br />
         <h1 className="home-title">The Remind Notation</h1>
         <h4 className="home-byline">Streamlined Chords: Play Without Pause</h4>
-        <br/><br/>
+        <br />
         
-
-        <div className="block">
-          <Search size="medium" showExcerpt={true} />
-        </div>
+          <div className="logo-container">
+            <img
+              class="trn-lead-logo-main"
+              src="img/logo-main.svg"
+              alt="The Remind Notation Logo"
+            />
+          </div>
+      
       </div>
     </Layout>
-  );
+  )
 }

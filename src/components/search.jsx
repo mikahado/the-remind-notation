@@ -31,7 +31,7 @@ export default function Search({ showExcerpt, size }) {
       <input
         className={inputClassName}
         type="text"
-        placeholder="Search a song, artist, lyric, genre."
+        placeholder="Find chords"
         aria-label="Search..."
         name="filter"
         value={query}
@@ -43,7 +43,7 @@ export default function Search({ showExcerpt, size }) {
             className="close-search button-link"
             onClick={() => setQuery('')}
           >
-            Close
+            CLOSE
           </button>
           <ul>
             {results.map(result => (

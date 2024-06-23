@@ -416,10 +416,9 @@ hr {
 .trn-lead-logo-main {
     box-shadow: 8.0px 16.0px 16.0px hsl(0deg 0% 0% / 0.25);
     border-radius: 180px;
-    width: 150px; /* Specify your desired width */
+    width: 150px;  
     height: 150px;
     align-items: center;
-    
 }
 
 .trn-lead-logo-small {
@@ -1393,10 +1392,6 @@ label.srs-toggle {
  display: none;
 }
 
-
-/* Add these styles to your index.css file */
-
-/* Centering and styling for the home title and byline */
 .home-title, .home-byline {
     text-align: center;
     margin: 0;
@@ -1405,7 +1400,7 @@ label.srs-toggle {
   
   .home-title {
     font-size: 2.5em;
-    color: #f0f0f0;
+    color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-weight: bold;
@@ -1413,7 +1408,7 @@ label.srs-toggle {
   
   .home-byline {
     font-size: 1.2em;
-    color: #cccccc;
+    color: #b3b3b3;
     font-style: italic;
     margin-top: 0.3em;
   }
