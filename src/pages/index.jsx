@@ -80,10 +80,15 @@ export default function Home() {
     </Layout>
   ) : (
     <Layout title="Home" type="home">
+      
       <div className="column is-half">
         <div className="logo-container">
           <img class="trn-lead-logo-main" src="img/logo-main.svg" alt="Logo"  />
         </div>
+        <h1 className="home-title">The Remind Notation</h1>
+        <h4 className="home-byline">Streamlined Chords: Play Without Pause</h4>
+        <br/><br/>
+        
 
         <div className="block">
           <Search size="medium" showExcerpt={true} />

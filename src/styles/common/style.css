@@ -1393,6 +1393,70 @@ label.srs-toggle {
  display: none;
 }
 
+
+/* Add these styles to your index.css file */
+
+/* Centering and styling for the home title and byline */
+.home-title, .home-byline {
+    text-align: center;
+    margin: 0;
+    padding: 0.2em;
+  }
+  
+  .home-title {
+    font-size: 2.5em;
+    color: #f0f0f0;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: bold;
+  }
+  
+  .home-byline {
+    font-size: 1.2em;
+    color: #cccccc;
+    font-style: italic;
+    margin-top: 0.3em;
+  }
+  
+  /* Optional: Add a subtle animation effect */
+  .home-title, .home-byline {
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Style the logo container */
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0.5em;
+  }
+  
+  .trn-lead-logo-main {
+    max-width: 150px;
+  }
+  
+  /* Optional: Add some responsive design adjustments */
+  @media (max-width: 768px) {
+    .home-title {
+      font-size: 2em;
+    }
+  
+    .home-byline {
+      font-size: 1em;
+    }
+  }
+  
+
 #copyright {
     margin-left: 20px;
 }
