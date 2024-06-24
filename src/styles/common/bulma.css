@@ -2965,7 +2965,7 @@ a.navbar-item,
       width: 40%; }
     .column.is-three-fifths, .column.is-three-fifths-tablet {
       flex: none;
-      width: 60%; }
+      width: 75%; }
     .column.is-four-fifths, .column.is-four-fifths-tablet {
       flex: none;
       width: 80%; }

@@ -31,7 +31,9 @@ export default function Layout({ children, title, type }) {
       <section className="section">
         <div className="columns is-centered">{children}</div>
       </section>
+
       <Footer/>
+      
     </>
   )
 }

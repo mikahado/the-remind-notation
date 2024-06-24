@@ -12,7 +12,7 @@ import { faMusic, faBookOpen, faList, faGuitar, faMagnifyingGlass } from '@forta
 export const DefaultMenuStructure = (menuType = 'main') => {
   const defaultStructure = [
   // Default Menu.
-  { type: 'page', item: 'the-remind-notation', title: (
+  { type: 'page', item: 'about', title: (
     <span>
       <FontAwesomeIcon icon={faGuitar} /> <span className="menu-title">About</span>
     </span>
@@ -33,8 +33,8 @@ export const DefaultMenuStructure = (menuType = 'main') => {
     </span>
   )},
   { type: 'page', item: '#', title: (
-    <span className="menu-item">
-      <FontAwesomeIcon icon={faMagnifyingGlass} flip="horizontal" /> <span className="menu-title"></span>
+    <span>
+      <FontAwesomeIcon icon={faMagnifyingGlass} flip="horizontal" /> <span className="menu-title">Search</span>
     </span>
   )}
 ];
