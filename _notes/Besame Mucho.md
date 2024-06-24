@@ -6,7 +6,7 @@ tags:
   - Pop
 ---
 
-*Consuelo Velázquez / The Beatles*
+*Consuelo Velázquez*
 
 Key: 
 ### - Em Am B7 Em

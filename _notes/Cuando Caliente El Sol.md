@@ -5,6 +5,9 @@ tags:
   - Pop
 ---
 
+*Luis Miguel*
+
+Key:
 ### - C Am Em 
 ### - F G C (Am)^
 ### - Em F G
