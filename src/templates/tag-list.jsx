@@ -18,7 +18,8 @@ export default function TagList({ data }) {
           {tagList.map(tag => (
             <li key={tag.fieldValue} className="tag-name">
               <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
-                {tag.fieldValue} <span className="badge">{tag.totalCount}</span>
+                {tag.fieldValue} 
+                {/* <span className="badge">{tag.totalCount}</span> */}
               </Link>
             </li>
           ))}
