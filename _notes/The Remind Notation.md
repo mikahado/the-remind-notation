@@ -3,7 +3,7 @@ The Remind Notation (TRN) is a streamlined musical shorthand to learn chords and
 
 <div class="logo-container-2">
   <a href="https://shorturl.at/qkgbS" target="_blank">
-    <img class="trn-lead-logo-main" src="img/logo-1.svg" alt="Logo" />
+    <img class="trn-lead-logo-main" src="img/logo-1.png" alt="Logo" />
   </a>
 </div>
 

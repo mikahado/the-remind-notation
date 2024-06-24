@@ -73,19 +73,13 @@ export default function Home() {
     <Layout title="Home" type="home">
       <br />
       <div className="block">
-        <Search size="medium" showExcerpt={true} />
-        <br />
+        <Search size="medium" showExcerpt={true} />        
         <h1 className="home-title">The Remind Notation</h1>
-        <h3 className="home-byline">Streamlined Chords: Song Memory Made Easy</h3>
-        <br />
-        
-        
+        <h2 className="home-byline">Streamlined Chords: Song Memory Made Easy</h2>
 
         <div>
             <DarkMode />
           </div>
-
-
       </div>
     </Layout>
   )

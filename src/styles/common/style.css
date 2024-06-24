@@ -194,6 +194,15 @@ h6 {
     font-weight: 600;
 }
 
+/* Ensure table text inherits the base font size */
+table {
+    font-size: 1rem; /* Adjust this value as needed */
+}
+
+td, th {
+    font-size: inherit; /* Or set a specific size like 16px */
+    font-family: 'IBM Plex Sans', sans-serif; /* Ensure consistency with other text */
+}
 
 
 
@@ -419,6 +428,7 @@ hr {
     width: 150px;  
     height: 150px;
     align-items: center;
+    max-width: 150px;
 }
 
 .trn-lead-logo-small {
@@ -1403,13 +1413,15 @@ label.srs-toggle {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-weight: bold;
+    padding-top: 30px;
   }
   
   .home-byline {
     font-size: 1.2em;
-    opacity: 50%;
+    opacity: 80%;
     font-style: italic;
     margin-top: 0.3em;
+    padding-bottom: 30px;
   }
   
   /* Optional: Add a subtle animation effect */
@@ -1433,10 +1445,6 @@ label.srs-toggle {
     display: flex;
     justify-content: center;
     margin-bottom: 0.5em;
-  }
-  
-  .trn-lead-logo-main {
-    max-width: 150px;
   }
   
   /* Optional: Add some responsive design adjustments */
@@ -1685,3 +1693,8 @@ label.margin-toggle:not(.sidenote-number) {
   
 }
 
+/* Additional table styling */
+table, td, th {
+    font-size: 1rem; /* Adjust as necessary */
+    font-family: 'IBM Plex Sans', sans-serif;
+}
