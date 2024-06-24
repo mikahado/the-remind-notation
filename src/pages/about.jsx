@@ -31,6 +31,13 @@ const About = () => {
                   </a>
                 </div>
 
+                <h3>How to Use TRN</h3>
+                <ol>
+                  <li>Learn a song by heart. Use official sheet music or online lablature. And your ears! </li>
+                  <li>Graduate to The Remind Notation. While you play, use TRN (pronounced 'turn') to recall chords and lyrics</li>
+                  <li>Focus on the music instead of the page. Engage your audience, not the screen. </li>
+                </ol>
+
                 <h3>How to Read TRN</h3>
                 <p>Key symbols include dash, slash, parenthesis, and caret.</p>
 
@@ -42,7 +49,7 @@ const About = () => {
                   <p>
                     <strong>C G Am - F G C - Am F G</strong>
                     <br />
-                    Verse - Chorus - Bridge
+                    = Verse - Chorus - Bridge
                   </p>
                 </blockquote>
 
@@ -52,13 +59,13 @@ const About = () => {
                 </p>
                 <blockquote>
                   <p>
-                    <strong>Am Em</strong>
+                    <strong>Am Em^</strong>
                     <br />
-                    Am Em Am Em Am Em, etc.
+                    = Am Em Am Em Am Em, etc.
                   </p>
                   <p>
                     <strong>C G ^ Am F</strong>
-                    <br />C G C G Am F
+                    <br />= C G C G Am F
                   </p>
                 </blockquote>
 
@@ -70,12 +77,12 @@ const About = () => {
                 <blockquote>
                   <p>
                     <strong>C Am ^ (F G)</strong>
-                    <br />F and G are transition chords, played only once.
+                    <br />= F and G are transition chords, played only once.
                   </p>
                   <p>
                     <strong>C(7)</strong>
                     <br />
-                    Playing C7th is optional, or played occasionally.
+                    = Playing C7th is optional, or played occasionally.
                   </p>
                 </blockquote>
 
@@ -87,8 +94,8 @@ const About = () => {
                   <p>
                     <strong>G Em (Am C / D G )</strong>
                     <br />
-                    First time through: G Em Am C<br />
-                    Second time through: G Em D G
+                    = First time through: G Em Am C<br />
+                    = Second time through: G Em D G
                   </p>
                 </blockquote>
 
@@ -97,7 +104,7 @@ const About = () => {
                   progressions, but of course, not all songs will fit perfectly
                   within its rules, so... Use. Your. Memory!
                 </em>
-
+<br/><br/>
                 <h2>Philosophy</h2>
                 <p>
                   Musicians play best from memory and heart. The Remind Notation
@@ -125,6 +132,18 @@ const About = () => {
                   <li>No repetition counts</li>
                   <li>No tablature</li>
                 </ul>
+
+                
+
+                <h2>Author Background</h2>
+                <p>
+                  Hi! I'm Maika, the creator of The Remind Notation. TRN emerged
+                  from my frustration with online chord lookups. Interrupting
+                  play to scroll was a hassle, and auto-scroll rarely worked. I
+                  wanted a better online option, where a song's chords fit on
+                  one page. Whether performing live, rehearsing, or jamming,
+                  that's all I needed. So, I created TRN.
+                </p>
 
                 <h2>FAQs</h2>
                 <p>
@@ -178,17 +197,7 @@ const About = () => {
                   structure, making it accessible regardless of language.
                 </p>
 
-                <h2>Author Background</h2>
-                <p>
-                  Hi! I'm Maika, the creator of The Remind Notation. TRN emerged
-                  from my frustration with online chord lookups. Interrupting
-                  play to scroll was a hassle, and auto-scroll rarely worked. I
-                  wanted a better online option, where a song's chords fit on
-                  one page. Whether performing live, rehearsing, or jamming,
-                  that's all I needed. So, I created TRN.
-                </p>
-
-                <h2>Copyright Fair Use Argument</h2>
+                <h4>Copyright Fair Use Argument</h4>
                 <p>
                   This site, The Remind Notation, employs chord and lyric
                   snippets from various artists. These are used solely for
