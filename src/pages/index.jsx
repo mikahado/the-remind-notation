@@ -6,6 +6,7 @@ import Search from '../components/search'
 import '../styles/index.css'
 import { DefaultMenuStructure } from '../utils/menu-structure'
 import DarkMode from '../components/dark-mode'
+import Footer from '../layout/footer'
 
 export default function Home() {
   const data = useStaticQuery(graphql`
@@ -83,7 +84,8 @@ export default function Home() {
         <div>
             <DarkMode />
           </div>
-      
+
+
       </div>
     </Layout>
   )

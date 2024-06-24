@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from './header'
+import Footer from './footer'
 
 export default function Layout({ children, title, type }) {
   return (
@@ -8,6 +9,7 @@ export default function Layout({ children, title, type }) {
       <section className="section">
         <div className="columns is-centered">{children}</div>
       </section>
+      <Footer/>
     </>
   )
 }

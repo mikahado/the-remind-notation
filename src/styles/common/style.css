@@ -161,7 +161,7 @@ main {
 /* Minor third with base font 14px */
 
 p {
-    font-size: 20px; 
+    font-size: 18px; 
 }
 
 h1 {
@@ -1449,6 +1449,26 @@ label.srs-toggle {
       font-size: 1em;
     }
   }
+
+
+
+.footer {
+    background-color: inherit; /* Ensures background inherits from parent */
+    padding: 1rem 0;
+    margin-top: 2rem;
+    text-align: center;
+    position: fixed; /* Changed to fixed for scrolling page */
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin-bottom: 0;
+    font-size: 0.9rem;
+  
+  }
+  
+  
   
 
 #copyright {
