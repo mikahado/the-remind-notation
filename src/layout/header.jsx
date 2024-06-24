@@ -73,7 +73,6 @@ export default function Header({ title, type, description }) {
 
       <nav
         className="navbar is-transparent"
-        role="navigation"
         aria-label="main navigation"
       >
         <div className="navbar-brand">

@@ -6,14 +6,11 @@ The Remind Notation (TRN) is a streamlined musical shorthand featuring chords, l
   </a>
 </div>
 
-### **How to Read TRN** 🔍
+### **How to Read TRN** 
 
-Key symbols include:
-- "-" for separating parts
-- "(  )" for transitions/fills
-- "^" for repetition
+Key symbols include dash, slash, parenthesis, carot.
 
-### Glossary 📚
+### Glossary 
 
 " - " = dash separates <strong>parts</strong> of a song:
  
@@ -44,23 +41,21 @@ Key symbols include:
 
 <em>Note: TRN is short-hand notation for a wide variety of chord progressions, but of course, not all songs will fit perfectly within its rules, so . . .  Use. Your. Memory!</em>
 
-## Philosophy 🧠
+## Philosophy 
 
 I believe musicians play better when they play from their heart and from memory. The Remind Notation is simply a reminder for songs you already know well enough. The nuances of the song -- the structure, dynamics, riffs, solos, etc., are not included in TRN. It's only a reminder, to keep everyone on track in a compact, live-friendly format. 
 
-## What TRN is for: 🎸
+## What TRN is for: 
 
-- Serves as a reference for musicians who have already learned a song.
-- Compact notation format eliminates the need for scrolling mid-song.
-- Facilitates consistent and accurate performances.
+Serves as a reference for musicians who have already learned a song.Compact notation format eliminates the need for scrolling mid-song. Facilitates consistent and accurate performances.
 
-## What TRN is not for: 🚫
+## What TRN is not for: 
 
 TRN encourages memory-based performances. By design, it does <em>not</em> provide the following musical information:
 
 No dynamics/articulation (how hard or soft to play), no tempo/metre/bars, no technique (like which fingers to use, whether to strum or fingerpick, etc.), no repetition count (of how many times a section is repeated), no tablature.
 
-## FAQs 🤔
+## FAQs 
 
 **Q: How is TRN different from other musical notation?**  
 A: TRN omits time and dynamic indicators, focusing solely on chord and structure reminders. It encourages musicians to inject their personal interpretation into the performance, making it ideal for jam sessions.
@@ -74,6 +69,6 @@ A: Currently, there are no plans for digital integration, but future development
 **Q: How does TRN address language barriers for multilingual musicians?**  
 A: TRN's notation system is language-agnostic, primarily relying on symbols and shorthand notation for chords and structure. This makes it accessible to musicians regardless of language proficiency, as long as they understand the symbolic representation of chords and song structure.
 
-## Author Background 📝
+## Author Background 
 
 Hi! I'm Maika, the creator of The Remind Notation. TRN was born out of a frustration I had with looking up chords online. Someone would always have to interrupt their playing to scroll down a page, and auto-scroll never worked well for me. Also, the lyrics with chords on top simply looked messy. Like many musicians, I'd sometimes have a "cheat sheet" with super-condensed chords for songs to serve simply as a reminder of the song. Whether performing live, rehearsing, or jamming with friends, that's usually all I would need, if at all. So I wanted to create a better option online, where any average length song could be seen and played on less than a single page. 

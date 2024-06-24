@@ -1407,7 +1407,7 @@ label.srs-toggle {
   
   .home-byline {
     font-size: 1.2em;
-    color: #b3b3b3;
+    opacity: 50%;
     font-style: italic;
     margin-top: 0.3em;
   }
