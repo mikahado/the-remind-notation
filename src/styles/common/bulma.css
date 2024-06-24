@@ -3872,7 +3872,7 @@ a.navbar-item,
 .section.is-note .column.is-primary-content,
 .note-page-section {
   background: var(--bg-main);
-  border-radius: 15px;
+  border-radius: 20px;
   position: relative;
   padding: 1rem;
   margin: 0 -1rem;

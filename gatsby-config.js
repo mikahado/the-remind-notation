@@ -5,9 +5,12 @@ module.exports = {
 
   siteMetadata: {
     title: `Remind Notation (beta)`,
-    description: `A Musical Notation for a New Era`,
+    description: `Remind Notation (TRN) features chords and lyrics in a condensed notation that eliminates mid-song scrolling and serves as a memory-aide reference of songs for musicians.
 
-    // siteUrl: `https://yoursite.com/notes/`, // URL at which your site will be published. This should be present if you want RSS feed.
+`,
+    lang: "en",
+
+    siteUrl: `https://remindnotation.com/`, // URL at which your site will be published. This should be present if you want RSS feed.
     // headerMenu: [ // Top Navbar items
     //   {type: 'page', item: '', title: 'Home'}, // Type can be 'page', 'note', 'tag', or 'link'
     //   {type: 'page', item: 'sitemap', title: 'Sitemap'},
@@ -30,9 +33,11 @@ module.exports = {
     hoverPreview: false // If true, shows the content of an internal link in a tooltip when hovering over the link.
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sharp`,
     `gatsby-remark-images`,
     `gatsby-plugin-dark-mode`,
+    
     // { // Enable this if you want to have an RSS Feed. The `siteMetadata.siteUrl` property should be present for this to work
     //   // Also, you'll need to install this library. To do that, run the command `npm install gatsby-plugin-feed-mdx --save` in the same directory as this gatsby-config.js file.
     //   resolve: `gatsby-plugin-feed`,

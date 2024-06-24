@@ -1,4 +1,5 @@
-The Remind Notation (TRN) is a streamlined musical shorthand featuring chords, lyrics, and song structure in a single line, designed to eliminate mid-song scrolling and serve as a quick, memory-aiding reference for musicians. 
+The Remind Notation (TRN) is a streamlined musical shorthand to learn chords and lyrics, and song structure in a single line, designed to eliminate mid-song scrolling and serve as a quick, memory-aiding reference for musicians. 
+<small>TRN serves an educational purpose, and all the lyrics and chords belong to their respected artists.</small>
 
 <div class="logo-container-2">
   <a href="https://shorturl.at/qkgbS" target="_blank">
@@ -56,6 +57,9 @@ TRN encourages memory-based performances. By design, it does <em>not</em> provid
 No dynamics/articulation (how hard or soft to play), no tempo/metre/bars, no technique (like which fingers to use, whether to strum or fingerpick, etc.), no repetition count (of how many times a section is repeated), no tablature.
 
 ## FAQs 
+
+**Q: Is this the final product?**  
+A: Nope! Actually, this is a proof of concept. It's made for educational purposes -- a tool for learning. 
 
 **Q: How is TRN different from other musical notation?**  
 A: TRN omits time and dynamic indicators, focusing solely on chord and structure reminders. It encourages musicians to inject their personal interpretation into the performance, making it ideal for jam sessions.

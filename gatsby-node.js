@@ -101,7 +101,7 @@ exports.createPages = async ({ graphql, actions }) => {
   const allNoteTitles = allNotes.map(note => note.node.fields.title) // A list of all note titles. Helps in finding the correct title in a case-insensitive manner.
   let allNotesByTitle = {}
 
-  // I didn't used the much more cleaner foreach because the `refersTo` was not working well with that.
+
   for (let i = 0; i < result.data.allMdx.edges.length; i++) {
     const node = result.data.allMdx.edges[i].node
 
@@ -111,9 +111,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
     allNotesByTitle[title] = node
 
-    // Go thru all the notes, create a map of how references map.
-
-    const outgoingLinks = findReferences(node.rawBody) // All outgoing links from this note
+    const outgoingLinks = findReferences(node.rawBody) 
     refersTo[title] = outgoingLinks.map(outTitle =>
       getPreExistingTitle(outTitle, allNoteTitles)
     )
@@ -164,8 +162,6 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     }
 
-    // Context is becaming too big. I'm getting this warnding...
-    //      `The size of at least one page context chunk exceeded 500kb, which could lead to degraded performance. Consider putting less data in the page context.`
     createPage({
       path: node.fields.slug,
       component: path.resolve(`./src/templates/note.jsx`),
@@ -178,7 +174,6 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
 
-    // Handling Aliases
     for (let j = 0; j < aliases.length; j++) {
       createRedirect({
         fromPath: `/${makeSlug(aliases[j])}`,

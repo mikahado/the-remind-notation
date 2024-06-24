@@ -14,8 +14,7 @@ export default function Footer() {
       <footer className="footer">
         <div className="content has-text-centered">
           <p>
-            by Michael Harrell 
-            &copy; {currentYear} {siteConfig.siteMetadata.title || 'The Remind Notation beta'}. All rights reserved.
+            &copy;{currentYear} {siteConfig.siteMetadata.title || 'The Remind Notation beta'}. All rights reserved.
           </p>
         </div>
       </footer>

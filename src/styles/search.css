@@ -1,5 +1,6 @@
 form.search-form {
   position: relative;
+  z-index: 9991;
 }
 
 form.search-form input {
@@ -9,8 +10,9 @@ form.search-form input {
 }
 form .search-result {
   background-color: var(--bg-main);
-  position: absolute;
-  top: 60px;
+  position: relative;
+  z-index: 9991;
+  top: 20px;
   left: 0;
   padding: 20px;
   width: 100%;

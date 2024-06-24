@@ -7,13 +7,13 @@ html, body {
     --color-bis: #E6E6E6;
     --text-main: #FAFAFC;
     --text-sub: #FFFFFF;
-    --link: #6D9EFF;
+    --link: #E95B99;
     --border: #353535;
 }
 
 html, html[data-theme="light"], body.light {
     --bg-main: #FFFFFF;
-    --bg-sub: #FAFAFC;
+    --bg-sub: #F5F5F5;
     --color-bis: #363636;
     --text-main: #18181C;
     --text-sub: #5D5D67;
@@ -27,7 +27,7 @@ html[data-theme="dark"], body.dark {
     --color-bis: #E6E6E6;
     --text-main: #FAFAFC;
     --text-sub: #FFFFFF;
-    --link: #6D9EFF;
+    --link: #E95B99;
     --border: #353535;
 }
 
@@ -38,13 +38,13 @@ html[data-theme="dark"], body.dark {
         --bg-sub: #262626;
         --text-main: #FAFAFC;
         --text-sub: #FFFFFF;
-        --link: #6D9EFF;
+        --link: #E95B99;
         --border: #353535;
     }
 
     html[data-theme="light"], body.light {
 	    --bg-main: #FFFFFF;
-        --bg-sub: #FAFAFC;
+        --bg-sub: #F5F5F5;
         --text-main: #18181C;
         --text-sub: #5D5D67;
         --link: #2380ED;

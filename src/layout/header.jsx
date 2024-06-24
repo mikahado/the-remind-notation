@@ -85,7 +85,7 @@ export default function Header({ title, type, description }) {
               xmlns="http://www.w3.org/2000/svg"
               className="trn-lead-logo-small"
           >
-              <circle cx="40" cy="40" r="40" fill="#262626" />
+              <circle cx="40" cy="40" r="40" fill="#18181C" />
 
               <path
     id="movingPath"
