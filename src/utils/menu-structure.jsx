@@ -5,7 +5,7 @@ import { camelCase, startCase } from 'lodash'
 
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMusic, faBook, faList, faGuitar, faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
+import { faMusic, faBookOpen, faList, faGuitar, faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 
 
 
@@ -19,7 +19,7 @@ export const DefaultMenuStructure = (menuType = 'main') => {
   )},
   { type: 'page', item: 'song-book', title: (
     <span>
-      <FontAwesomeIcon icon={faBook} /> <span className="menu-title">Song Book</span>
+      <FontAwesomeIcon icon={faBookOpen} /> <span className="menu-title">Song Book</span>
     </span>
   )},
   { type: 'page', item: 'setlists', title: (
