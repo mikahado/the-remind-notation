@@ -8,7 +8,7 @@ html, body {
     --text-main: #FAFAFC;
     --text-sub: #FFFFFF;
     --link: #E95B99;
-    --border: #353535;
+    --border: #E5E5E5;
 }
 
 html, html[data-theme="light"], body.light {
@@ -18,7 +18,7 @@ html, html[data-theme="light"], body.light {
     --text-main: #18181C;
     --text-sub: #5D5D67;
     --link: #2380ED;
-    --border: #E5E5E5;
+    --border: #353535;
 }
 
 html[data-theme="dark"], body.dark {
@@ -28,7 +28,7 @@ html[data-theme="dark"], body.dark {
     --text-main: #FAFAFC;
     --text-sub: #FFFFFF;
     --link: #E95B99;
-    --border: #353535;
+    --border: #E5E5E5;
 }
 
 
@@ -39,7 +39,7 @@ html[data-theme="dark"], body.dark {
         --text-main: #FAFAFC;
         --text-sub: #FFFFFF;
         --link: #E95B99;
-        --border: #353535;
+        --border: #E5E5E5;
     }
 
     html[data-theme="light"], body.light {

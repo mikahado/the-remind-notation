@@ -4,7 +4,7 @@ import { useFlexSearch } from 'react-use-flexsearch'
 import '../styles/search.css'
 
 export default function Search({ showExcerpt, size }) {
-  // Needed for search functionality
+ 
   const searchStore = useStaticQuery(graphql`
     {
       localSearchNotesIndex {

@@ -2443,7 +2443,9 @@ body.has-navbar-fixed-bottom {
     transform: translateY(-5px) rotate(-45deg); }
 
 .navbar-menu {
-  display: none; }
+  display: none; 
+z-index: 9999
+}
 
 .navbar-item,
 .navbar-link {
@@ -2470,7 +2472,9 @@ a.navbar-item,
 
 .navbar-item {
   flex-grow: 0;
-  flex-shrink: 0; }
+  flex-shrink: 0; 
+  z-index: 9999;
+}
   .navbar-item img {
     max-height: 1.75rem; }
   .navbar-item.has-dropdown {
@@ -2505,10 +2509,12 @@ a.navbar-item,
     right: 1.125em; }
 
 .navbar-dropdown {
+  z-index: 9999;
   font-size: 0.875rem;
   padding-bottom: 0.5rem;
   padding-top: 0.5rem; }
   .navbar-dropdown .navbar-item {
+
     padding-left: 1.5rem;
     padding-right: 1.5rem; }
 
@@ -2610,6 +2616,7 @@ a.navbar-item,
       pointer-events: auto;
       transform: translateY(0); }
   .navbar-menu {
+    z-index: 9999;
     flex-grow: 1;
     flex-shrink: 0; }
   .navbar-start {

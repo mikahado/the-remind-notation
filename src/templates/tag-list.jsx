@@ -14,8 +14,7 @@ export default function TagList({ data }) {
     <Layout title="Genres" type="tag">
       <div className="column is-half">
         <h1>Genres</h1>
-
-        <ul>
+        <ul className="tag-container">
           {tagList.map(tag => (
             <li key={tag.fieldValue} className="tag-name">
               <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>

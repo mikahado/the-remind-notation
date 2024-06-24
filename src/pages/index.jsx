@@ -47,7 +47,6 @@ export default function Home() {
 
   const toggleTheme = () => {
     const newTheme = theme === 'dark' ? 'light' : 'dark'
-    console.log(newTheme)
     setTheme(newTheme)
     document.documentElement.setAttribute('data-theme', newTheme)
   }

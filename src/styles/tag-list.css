@@ -1,15 +1,24 @@
 @import "variables.css";
 
+.tag-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+}
+
 .tag-name {
   border: 1px solid var(--border);
   background-color: var(--bg-main);
-  display: inline;
   padding: 3px 5px;
-  margin: 5px;
-  float: left;
+  font-size: 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .tag-name .badge {
   color: var(--text-sub);
-  font-size: small;
+  font-size: medium;
 }
