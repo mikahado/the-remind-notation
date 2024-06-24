@@ -33,7 +33,7 @@ export default function Search({ showExcerpt, size }) {
       <input
         className={inputClassName}
         type="text"
-        placeholder="Search for songs, chords, lyrics. "
+        placeholder="Search by song, artist, or lyric."
         aria-label="Search..."
         name="filter"
         value={query}
