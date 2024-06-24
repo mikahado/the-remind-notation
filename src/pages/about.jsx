@@ -10,6 +10,8 @@ const About = () => {
           <div className="column is-three-fifths">
             <main>
               <div className="note-area note-page-section">
+                <h1 className="home-title">The Remind Notation</h1>
+                <h2 className="home-byline">Streamlined Chords: Song Memory Made Easy</h2>
                 <p>
                   The Remind Notation (TRN) is a streamlined musical shorthand
                   designed to help musicians quickly reference chords, lyrics,
@@ -107,10 +109,16 @@ const About = () => {
 <br/><br/>
                 <h2>Philosophy</h2>
                 <p>
+                Hi! I'm Maika, the creator of The Remind Notation. TRN emerged
+                  from my struggles with reading online chords. Interrupting
+                  play to scroll was a hassle, and auto-scroll rarely worked. I
+                  wanted a better online option, where a song's chords fit on
+                  one page, and look great on whatever device you're using. Whether performing live, rehearsing, or jamming,
+                  TRN lets you player closer to your chest.  
                   Musicians play best from memory and heart. The Remind Notation
-                  is a simple reminder for songs already well known. It doesn't
+                  is a simple reminder for songs already known. It doesn't
                   capture every nuance of a song -- just the essentials to keep
-                  everyone on track.
+                  everyone on beat.
                 </p>
 
                 <h2>What TRN is for:</h2>
@@ -133,17 +141,6 @@ const About = () => {
                   <li>No tablature</li>
                 </ul>
 
-                
-
-                <h2>Author Background</h2>
-                <p>
-                  Hi! I'm Maika, the creator of The Remind Notation. TRN emerged
-                  from my frustration with online chord lookups. Interrupting
-                  play to scroll was a hassle, and auto-scroll rarely worked. I
-                  wanted a better online option, where a song's chords fit on
-                  one page. Whether performing live, rehearsing, or jamming,
-                  that's all I needed. So, I created TRN.
-                </p>
 
                 <h2>FAQs</h2>
                 <p>
