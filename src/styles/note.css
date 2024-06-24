@@ -36,17 +36,24 @@
 .note-content a {
   color: var(--link) !important;
 }
+
 .note-content table {
   width: 100%;
   border-top: 1px solid var(--bg-sub);
   margin: 20px 0;
+  font-size: 16px; /* Adjust this value to your desired size */
+  font-family: 'IBM Plex Sans', sans-serif; /* Ensure consistency with other text */
 }
+
 .note-content table tr {
   border-bottom: 1px solid var(--bg-sub);
 }
+
 .note-content table td,
 .note-content table th {
   padding: 5px;
+  font-size: inherit; /* Inherit from the table */
+  font-family: inherit; /* Inherit from the table */
 }
 
 .note-content blockquote {
