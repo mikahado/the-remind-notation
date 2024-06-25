@@ -7,7 +7,7 @@ tags:
 *Phil Phillips*
 
 Key: 
-### - G B7 C A ^   
+### - G B7 C A   
 
 Come with me My love To the sea The sea of love  
 I wanna tell you How much I love you  

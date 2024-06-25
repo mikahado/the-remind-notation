@@ -74,7 +74,6 @@ export default function Home() {
         <Search size="medium" showExcerpt={true} />        
         <h1 className="home-title">The Remind Notation</h1>
         <h2 className="home-byline">Streamlined Chords: Song Memory Made Easy</h2>
-
         <div>
             <DarkMode />
           </div>

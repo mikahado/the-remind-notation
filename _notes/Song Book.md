@@ -2,7 +2,7 @@
 | Song Title                     | Artist                        |
 | ------------------------------ | ----------------------------- |
 | [[Besame Mucho]]               | Andrea Bocelli                |
-| [[Wait]]                       | The Beatles                   |
+| [[Wait]]                       | Andrew Bird                   |
 | [[And I Love Her]]             | The Beatles                   |
 | [[Starman]]                    | David Bowie                   |
 | [[The World Retreats]]         | David O'Dowda                 |

@@ -8,7 +8,7 @@ tags:
 
 Key: 
 ### - Dm Am ^ F G7 C 
-### - Am < G Em ^ (G)
+### - Am G Am Em Am G
 ### - Em Bm ^ G A7 D
 
 I give her all my love  That's all I do  
