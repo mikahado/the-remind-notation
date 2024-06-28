@@ -11,6 +11,7 @@ Key:
 ### - Am G Am Em Am G
 ### - Em Bm ^ G A7 D
 
+<p class="lyrics">
 I give her all my love  That's all I do  
 And if you saw my love  You'd love her too  I love her
 
@@ -21,3 +22,4 @@ A love like ours  Could never die  As long as I  Have you near me
 
 Bright are the stars that shine  Dark is the sky  
 I know this love of mine  Will never die  And I love her
+</p>

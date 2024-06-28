@@ -11,6 +11,7 @@ Key:
 ### - G D(6) Am C Am C
 ### - (A F D) E A G D G D Am C
 
+<p class="lyrics">
 Trouble, oh trouble set me free, I have seen your face and it's to much for today
 Trouble, oh trouble cant you see Eating my heart away, and there's nothing much left of me
 
@@ -27,3 +28,4 @@ I'm deep and torn I'm shattered and lost and worn
 Too shocking to see Too shocking to see
 Trouble oh trouble please be kind
 I don't wanna fight and I havn't got a lot of time.
+</p>

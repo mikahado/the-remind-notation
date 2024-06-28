@@ -11,6 +11,7 @@ Key:
 ### - Bm D ( Dmaj7 ) Em F#m ^ 
 ### - G A Bm ^
 
+<p class="lyrics">
 Hold back Confide among the stars  
 We could be the lucky ones If we could only levitate  
 Fly low dear Dance beneath the trees   
@@ -25,4 +26,4 @@ These walls get closer by the night
 Everything is delicate and everything in flight   
 
 
-
+</p>

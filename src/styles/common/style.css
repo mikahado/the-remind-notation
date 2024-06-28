@@ -1698,3 +1698,19 @@ table, td, th {
     font-size: 1rem; /* Adjust as necessary */
     font-family: 'IBM Plex Sans', sans-serif;
 }
+
+.lyrics {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px; /* Adjust the font size as needed */
+    line-height: 1.7; /* Adjust line height for readability */
+    text-align: justify; /* Justify the text */
+    margin: 0 auto; /* Center the text block */
+    max-width: 800px; /* Adjust max-width as per your design */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.lyrics p {
+    margin: 20px 0; /* Adjust paragraph margin for spacing */
+}

@@ -10,6 +10,7 @@ tags:
 Key: 
 ### - Cm Fm G Cm Ab G (Cm)
 
+<p class="lyrics">
 Lay your head where my heart used to be  Hold the earth above me  
 Lay down in the green grass  Remember when you loved me.    
   
@@ -30,3 +31,5 @@ And if the sky falls, mark my words  We'll catch mocking birds
   
 Lay your head where my heart used to be  Hold the earth above me  
 Lay down in the green grass  Remember when you loved me
+
+</p>

@@ -11,6 +11,7 @@ Key:
 ### - F dm am C 
 ### - (A#m A#)
 
+<p class="lyrics">
 Feels like the countdown's almost up  Still looking for a hiding place    
 Asleep between the jaws of all the lies I'm living    
 Way out of my depth fire, I'm fucked  Facing off the closing walls,   
@@ -30,3 +31,4 @@ So long my cool  . . .
 
 There goes my cool  Back to bite the dust    
 Don't know how we'll make it  But we always do  
+</p>

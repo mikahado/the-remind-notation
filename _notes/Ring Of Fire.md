@@ -11,6 +11,7 @@ Key:
 ### - G C G D 
 ### - D C G ^ G D ^
 
+<p class="lyrics">
 Love is a burning thing, and it makes a fiery ring.   
 Bound by wild desire, I fell into a ring of fire.   
 
@@ -20,3 +21,5 @@ And it burns, burns, burns, The ring of fire, the ring of fire.
 
 The taste of love is sweet when hearts like ours meet. 
 I fell for you like a child. Oh, but the fire went wild.   
+
+</p>

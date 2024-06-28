@@ -11,6 +11,7 @@ Key:
 ### - G D C Am7 G Em Am D
 ### - G Bm C Am7 G Em (Am C D / D G C G)
 
+<p class="lyrics">
 It's not time to make a change Just relax, take it easy
 You're still young, that's your fault There's so much you have to know
 Find a girl, settle down If you want you can marry
@@ -34,3 +35,5 @@ But it's them they know, not me Now there's a way And I know that I have to go a
 I know, I have to go
 
 (Stay, stay, stay / Why must you go / And make this decision / Alone) 
+
+</p>

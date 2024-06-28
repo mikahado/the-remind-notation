@@ -10,6 +10,7 @@ Key:
 ### - Em F Em C (Bm)
 ### - Am Bb Am G 
 
+<p class="lyrics">
 As she walks in the room Scented and tall Hesitating once more 
 And as I take on myself And the bitterness I felt I realize that love flows
 
@@ -22,3 +23,4 @@ And in my thoughts I have bled For the riddles I've been fed Another lie moves o
 Source: LyricFind
 Songwriters: Adrian Francis Utley / Beth Gibbons / Geoffrey Paul Barrow
 The Rip lyrics © BMG Rights Management
+</p>
