@@ -1699,6 +1699,10 @@ table, td, th {
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
+.chords {
+    color: blue;
+}
+
 .lyrics {
     color: white;
     font-family: Arial, Helvetica, sans-serif; 
