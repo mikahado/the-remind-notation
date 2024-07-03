@@ -6,7 +6,7 @@ tags:
 ---
 *Phil Phillips*
 
-Key: 
+Key: G
 ### - G B7 C A   
 
  

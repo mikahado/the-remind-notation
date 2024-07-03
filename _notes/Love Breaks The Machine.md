@@ -6,11 +6,10 @@ tags:
 ---
 *Of Montreal*
 
-Key: 
+Key: G
 ### - G Bm Em Bm G (Bm7 Cm7) 
 ### - Cm7 Eb (F#) 
 
- 
 Love breaks the machine / Everything's half apart, what can it mean?  
 How can I trust my fractious heart / Knowing I have the enemy gene?  
 Oh, love breaks the machine / Everything's half a dream, how can it be?  

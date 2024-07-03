@@ -7,7 +7,7 @@ tags:
 
 *Luis Miguel*
 
-Key:
+Key: C
 ### - C Am Em 
 ### - F G C (Am)^
 ### - Em F G

@@ -7,7 +7,7 @@ tags:
 ---
 *David Bowie*
 
-Key: 
+Key: F
 ### - Gm F C ( F Ab Bb - A G ) 
 ### - F Dm Am C 
 ### - Bb Bbm F F# Gm C 

@@ -6,7 +6,7 @@ tags:
 ---
 *Royal Blood*
 
-Key: 
+Key: F
 ### - F ( D# ) D7 Gm A# C ^
 ### - F dm am C 
 ### - (A#m A#)

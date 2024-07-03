@@ -7,7 +7,7 @@ tags:
 ---
 *Johnny Cash*
 
-Key: 
+Key: G
 ### - G C G D 
 ### - D C G ^ G D ^
 

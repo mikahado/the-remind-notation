@@ -6,7 +6,7 @@ tags:
 ---
 *The Cure*
 
-Key: 
+Key: Cm
 ### - Cm Eb/Bb Abmaj7 G
 ### - AbMaj7 Fm7 CCm Gm/Bb
 

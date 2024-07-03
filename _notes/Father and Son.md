@@ -6,7 +6,7 @@ tags:
 ---
 *Cat Stevens*
 
-Key: 
+Key: G
 ### - G C
 ### - G D C Am7 G Em Am D
 ### - G Bm C Am7 G Em (Am C D / D G C G)

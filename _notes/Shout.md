@@ -7,7 +7,7 @@ tags:
 ---
 *Tears for Fears*
 
-Key: 
+Key: Gm
 ### - Gm Ebmaj7 C ( F ) Gm ^
 ### - Bb C ^
 ### - Gm C

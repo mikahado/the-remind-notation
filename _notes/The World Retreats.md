@@ -6,7 +6,7 @@ tags:
 ---
 *David O'Dowda*
 
-Key: 
+Key: Bm 
 ### - Bm A Em F#m ^ 
 ### - Bm D ( Dmaj7 ) Em F#m ^ 
 ### - G A Bm ^
