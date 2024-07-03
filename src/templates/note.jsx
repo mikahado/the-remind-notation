@@ -116,11 +116,12 @@ export default function Note({ pageContext, data }) {
           <div className="note-area note-page-section">
             
             <h1 className="note-title">{post.fields.title}</h1>
+            {console.log(post.fields)}
             <div className="note-content">
-              {/*<MDXRenderer>{post.body}</MDXRenderer>*/}
-              <MDXProvider components={{ a: TooltipLink }}>
+              <MDXRenderer>{post.body}</MDXRenderer>
+              {/* <MDXProvider components={{ a: TooltipLink }}>
                 <MDXRenderer>{post.body}</MDXRenderer>
-              </MDXProvider>
+              </MDXProvider> */}
             </div>
 
             {/* <div className="note-meta">

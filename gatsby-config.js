@@ -4,8 +4,8 @@ module.exports = {
   trailingSlash: 'never', // Remove all trailing slashes on each URL, e.g. /x/ to /x
 
   siteMetadata: {
-    title: `Remind Notation (beta)`,
-    description: `Remind Notation (TRN) features chords and lyrics in a condensed notation that eliminates mid-song scrolling and serves as a memory-aide reference of songs for musicians.
+    title: `The Remind Notation`,
+    description: `The Remind Notation (TRN) features chords and lyrics in a condensed notation that eliminates mid-song scrolling and serves as a memory-aide reference of songs for musicians.
 
 `,
     lang: "en",
