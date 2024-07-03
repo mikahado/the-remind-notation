@@ -4,9 +4,7 @@ artist: The Beatles
 tags: 
   - Pop
 ---
-*The Beatles*
-
-Key: Em
+*The Beatles* - Key: Em
 ### - Dm Am ^ F G7 C 
 ### - Am G Am Em Am G
 ### - Em Bm ^ G A7 D

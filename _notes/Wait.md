@@ -5,9 +5,7 @@ tags:
   - Blues
   - Jazz
 ---
-*Andrew Bird*
-
-Key: E
+*Andrew Bird* - Key: E
 ### - E C#m A Am E B
 ### - E G# A E A Am E 
 ### - G# C#m F# A Am

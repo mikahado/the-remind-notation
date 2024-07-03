@@ -5,9 +5,7 @@ tags:
   - Country
   - Folk
 ---
-*Johnny Cash*
-
-Key: G
+*Johnny Cash* - Key: G
 ### - G C G D 
 ### - D C G ^ G D ^
 

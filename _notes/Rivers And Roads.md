@@ -5,9 +5,7 @@ tags:
   - Folk
 ---
 
-*The Head and the Heart*
-
-Key: C 
+*The Head and the Heart* - Key: C 
 ### - C Am ^ F C  
 ### - Am F C 
 

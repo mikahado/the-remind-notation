@@ -4,9 +4,7 @@ artist: The Cure
 tags: 
   - Alternative
 ---
-*The Cure*
-
-Key: Cm
+*The Cure* - Key: Cm
 ### - Cm Eb/Bb Abmaj7 G
 ### - AbMaj7 Fm7 CCm Gm/Bb
 

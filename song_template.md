@@ -4,14 +4,11 @@ artist:
 tags: 
   - Pop
 ---
-*Artist*
+*Artist* - Key: 
 
-Key: 
 ### -  
 ### - 
 ### - 
 
  
   Lyrics
-
-</p>

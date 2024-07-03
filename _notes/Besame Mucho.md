@@ -6,9 +6,7 @@ tags:
   - Pop
 ---
 
-*Consuelo Velázquez*
-
-Key: Em
+*Consuelo Velázquez* - Key: Em
 ### - Em Am B7 Em
 ### - E7 Am Em C7 B7 Em
  

@@ -5,9 +5,7 @@ tags:
   - Pop
   - Rock
 ---
-*David Bowie*
-
-Key: F
+*David Bowie* - Key: F
 ### - Gm F C ( F Ab Bb - A G ) 
 ### - F Dm Am C 
 ### - Bb Bbm F F# Gm C 

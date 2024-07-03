@@ -4,9 +4,7 @@ artist: PJ Harvey
 tags: 
   - Rock
 ---
-*PJ Harvey* 
-
-Key: F
+*PJ Harvey* - Key: F
 ### - F C G ^ 
 ### - Am D C ^
 

@@ -4,9 +4,7 @@ artist: Phil Phillips
 tags: 
   - Soul
 ---
-*Phil Phillips*
-
-Key: G
+*Phil Phillips* - Key: G
 ### - G B7 C A   
 
  

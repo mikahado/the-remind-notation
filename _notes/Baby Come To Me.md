@@ -4,9 +4,7 @@ artist: James Ingram and Patti Austin
 tags: 
   - Soul
 ---
-*James Ingram and Patti Austin*
-
-Key: Cm
+*James Ingram and Patti Austin* - Key: Cm
 ### - Am7 D ^ F G ^  
 ### - Bbmaj7 Am7 Ab G (F G) 
 ### - Cm7 (Fm7  AbM7  Fm9) Gm7 (EbM7 Fdim / Dm7 Fdim Cm7) 

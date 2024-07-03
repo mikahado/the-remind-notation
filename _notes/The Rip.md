@@ -4,9 +4,7 @@ artist: Portishead
 tags: 
   - Alternative
 ---
-*Portishead*
-
-Key: Em
+*Portishead* - Key: Em
 ### - Em F Em C (Bm)
 ### - Am Bb Am G 
 

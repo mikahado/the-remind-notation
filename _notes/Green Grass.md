@@ -5,9 +5,7 @@ tags:
   - Alternative
   - Jazz
 ---
-*Tom Waits*
-
-Key: Cm 
+*Tom Waits* - Key: Cm 
 ### - Cm Fm G Cm Ab G (Cm)
 
  

@@ -4,9 +4,7 @@ artist: David O'Dowda
 tags: 
   - Alternative
 ---
-*David O'Dowda*
-
-Key: Bm 
+*David O'Dowda* - Key: Bm 
 ### - Bm A Em F#m ^ 
 ### - Bm D ( Dmaj7 ) Em F#m ^ 
 ### - G A Bm ^

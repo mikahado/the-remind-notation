@@ -4,9 +4,7 @@ artist: John Denver
 tags: 
   - Country
 ---
-*John Denver*
-
-Key: G
+*John Denver* - Key: G
 ### - G Em D C G 
 ### - G D (Em C / C G)
 ### - Em D/F# G - C G D - Em F C G - D D7

@@ -4,9 +4,7 @@ artist: Of Montreal
 tags: 
   - Pop
 ---
-*Of Montreal*
-
-Key: G
+*Of Montreal* - Key: G
 ### - G Bm Em Bm G (Bm7 Cm7) 
 ### - Cm7 Eb (F#) 
 

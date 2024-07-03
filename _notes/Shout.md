@@ -5,9 +5,7 @@ tags:
   - Rock
   - Alternative
 ---
-*Tears for Fears*
-
-Key: Gm
+*Tears for Fears* - Key: Gm
 ### - Gm Ebmaj7 C ( F ) Gm ^
 ### - Bb C ^
 ### - Gm C
