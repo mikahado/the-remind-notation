@@ -11,7 +11,7 @@ Key:
 ### - 
 ### - 
 
-<p class="lyrics">
+ 
   Lyrics
 
 </p>

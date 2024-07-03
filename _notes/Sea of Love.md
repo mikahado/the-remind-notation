@@ -9,7 +9,7 @@ tags:
 Key: 
 ### - G B7 C A   
 
-<p class="lyrics">
+ 
 Come with me My love To the sea The sea of love  
 I wanna tell you How much I love you  
 
@@ -18,4 +18,3 @@ I wanna tell you How much I love you
 
 Come with me My love To the sea The sea of love  
 I wanna tell you How much I love you... oh, oh  
-</p>

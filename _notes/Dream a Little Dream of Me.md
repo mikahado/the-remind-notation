@@ -13,7 +13,7 @@ Key:
 ### - F Fm C Ab G G7  
 ### - A F#m Bm E (Ab G)
 
-<p class="lyrics">
+ 
 Stars shining bright above you. Night breezes seem to whisper "I love you"  
 Birds singin' in the sycamore trees. Dream a little dream of me.
 
@@ -25,4 +25,3 @@ I'm longing to linger 'til dawn, dear  Just saying this
 
 Sweet dreams 'til sunbeams find you  Sweet dreams that leave all worries behind you  
 But in your dreams, whatever they be  Dream a little dream of me
-</p>

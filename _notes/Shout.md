@@ -12,7 +12,7 @@ Key:
 ### - Bb C ^
 ### - Gm C
 
-<p class="lyrics">
+ 
 Shout  Shout Let it all out  
 These are the things I can do without  
 Come on  I'm talking to you  Come on
@@ -28,4 +28,3 @@ As cold as ice  I hope we live to tell the tale
 
 And when you've taken down your guard  
 If I could change your mind  I'd really love to break your heart  
-</p>

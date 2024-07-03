@@ -10,7 +10,7 @@ Key:
 ### - F C G ^ 
 ### - Am D C ^
 
-<p class="lyrics">
+ 
 On a rooftop in Brooklyn  At one in the mornin'    
 Watchin' the lights flash  In Manhattan    
 I see five bridges  The Empire State Building    
@@ -28,6 +28,3 @@ And you said somethin'  That I've never forgotten
 
 You said somethin'  You said somethin'    
 You said somethin'  That was really important  
-
-
-</p>

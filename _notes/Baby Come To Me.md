@@ -12,7 +12,7 @@ Key:
 ### - Cm7 (Fm7  AbM7  Fm9) Gm7 (EbM7 Fdim / Dm7 Fdim Cm7) 
 ### - AbM7 Cm7 Ab EbM7 - Bbm Fm7 Db F
 
-<p class="lyrics">
+
 Thinkin' back in time / When love was only in my mind / I realize, 
 Ain't no second chance / You've got to hold on to romance / Don't let it slide   
 
@@ -33,5 +33,5 @@ When you know that love / Is standing by your side ...
 The nights can be cold  There's a chill to ev'ry evenin' When you're all alone  
 Don't talk anymore  'Cause you know that I'll be here  To keep you warm    
 
-</p>
+
 

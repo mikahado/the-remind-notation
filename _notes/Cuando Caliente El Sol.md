@@ -12,7 +12,7 @@ Key:
 ### - F G C (Am)^
 ### - Em F G
 
-<p class="lyrics">
+ 
 Cuando calienta el sol / Aquí en la playa /
 Siento tu cuerpo vibrar / Cerca de mi /
 Es tu palpitar, Es tu cara, es tu pelo, /
@@ -22,4 +22,3 @@ Love me with all of your heart / That's all I want, love /
 Love me with all of your heart / Or not at all /
 Just promise me this / That you'll give me all your kisses /
 Every winter every summer Every fall /
-</p>

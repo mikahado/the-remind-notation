@@ -12,7 +12,7 @@ Key:
 ### - E G# A E A Am E 
 ### - G# C#m F# A Am
 
-<p class="lyrics">
+ 
 Wait, don't go too early You're tired but everyone's tired
 But no one, no one is tired enough Only wait a little and listen
 
@@ -24,4 +24,3 @@ Second hand gloves will become lovely, lovely again
 
 Oh wait, wait for now - ooh Distrust everything, if you have to
 But trust the hours Haven't they carried you everywhere till now?
-</p>
