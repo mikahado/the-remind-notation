@@ -1461,19 +1461,19 @@ label.srs-toggle {
 
 
 .footer {
-    background-color: inherit; /* Ensures background inherits from parent */
+    background-color: inherit;
     padding: 1rem 0;
-    margin-top: 2rem;
+    margin-top: 50px;
     text-align: center;
-    position: fixed; /* Changed to fixed for scrolling page */
+    position: fixed; 
     bottom: 0;
     width: 100%;
   }
   
   .footer p {
+    margin-top: 60;
     margin-bottom: 0;
     font-size: 0.9rem;
-  
   }
   
   

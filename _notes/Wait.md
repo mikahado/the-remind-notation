@@ -2,7 +2,6 @@
 title: Wait
 artist: Andrew Bird
 tags: 
-  - Blues
   - Jazz
 ---
 *Andrew Bird* - Key: E

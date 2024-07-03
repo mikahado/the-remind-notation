@@ -10,8 +10,6 @@ tags:
 ### - D A ^ F G - A F#m D(maj7) A 
 ### - A E F3m B7 E Em Bm Adim A F3m C#m E
 
-Here's the text formatted with forward slashes between sections:
-
 I'm closer to the Golden Dawn / Immersed in Crowley's uniform / Of imagery / I'm living in a silent film / Portraying Himmler's sacred realm / Of dream reality / I'm frightened by the total goal / Drawing to the ragged hole / And I ain't got the power anymore / No, I ain't got the power anymore / 
 
 I'm the twisted name on Garbo's eyes / Living proof of Churchill's lies, I'm destiny / I'm torn between the light and dark / Where others see their targets, divine symmetry / Should I kiss the viper's fang? / Or herald loud the death of Man / I'm sinking in the quicksand of my thought / And I ain't got the power anymore / 

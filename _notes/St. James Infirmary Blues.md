@@ -3,6 +3,7 @@ title: St. James Infirmary Blues
 artist: Anonymous
 tags: 
   - Traditional
+  - Blues
 ---
 *Anonymous* - Key: Dm
 ### - Dm A7 Dm Gm Dm A7
