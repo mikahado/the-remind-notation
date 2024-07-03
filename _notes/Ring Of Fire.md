@@ -12,8 +12,8 @@ Key:
 ### - D C G ^ G D ^
 
 <p class="lyrics">
-Love is a burning thing, and it makes a fiery ring.   
-Bound by wild desire, I fell into a ring of fire.   
+Love is a burning thing, and it makes a fiery ring /   
+Bound by wild desire, I fell into a ring of fire / 
 
 I fell into a burning ring of fire. I went down, down, down,   
 And the flames went higher.   

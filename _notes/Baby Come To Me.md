@@ -13,22 +13,22 @@ Key:
 ### - AbM7 Cm7 Ab EbM7 - Bbm Fm7 Db F
 
 <p class="lyrics">
-Thinkin' back in time  When love was only in my mind  I realize, 
-Ain't no second chance  You've got to hold on to romance Don't let it slide   
+Thinkin' back in time / When love was only in my mind / I realize, 
+Ain't no second chance / You've got to hold on to romance / Don't let it slide   
 
-There's a special kind of magic in the air  
+There's a special kind of magic in the air /  
 When you find another heart that needs to share  
 
-Baby, come to me  Let me put my arms around you  
-This was meant to be  And I'm, oh so glad, I found you
-Need you ev'ry day  Gotta have your love around me  
-Baby, always stay  'Cause I can't go back to livin' without you 
+Baby, come to me / Let me put my arms around you  
+This was meant to be / And I'm, oh so glad, I found you
+Need you every day / Gotta have your love around me  
+Baby, always stay / 'Cause I can't go back to livin' without you 
 
-Spendin' ev'ry dime  To keep you talkin' on the line  That's how it was  
-And all those walks together Out in any kind of weather  Just because  
+Spendin every dime / To keep you talkin' on the line / That's how it was  
+And all those walks together / Out in any kind of weather / Just because  
 
-There's a brand-new way  Of looking at your life
-When you know that love  Is standing by your side ...  
+There's a brand-new way / Of looking at your life
+When you know that love / Is standing by your side ...  
 
 The nights can be cold  There's a chill to ev'ry evenin' When you're all alone  
 Don't talk anymore  'Cause you know that I'll be here  To keep you warm    

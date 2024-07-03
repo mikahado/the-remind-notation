@@ -14,7 +14,7 @@ Key:
 ### - Bb F C F
 
 <p class="lyrics">
-Didn't know what time it was the lights were low  I leaned back on my radio Some cat was layin' down some rock 'n' roll  
+Didn't know what time it was the lights were low / I leaned back on my radio Some cat was layin' down some rock 'n' roll  
 Then the loud sound did seem to fade  Came back like a slow voice on a wave of phase  That weren't no DJ that was hazy cosmic jive
 
 There's a Starman waiting in the sky  He'd like to come and meet us  
