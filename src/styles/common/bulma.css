@@ -3838,8 +3838,11 @@ a.navbar-item,
       padding: 18rem 1.5rem; } }
 
 .footer {
-  background-color: #fafafa;
-  padding: 3rem 1.5rem 6rem; }
+  background-color: inherit;
+  padding: 3rem 1.5rem 6rem; 
+  opacity: 50%;
+
+}
 
 .box-feed {
   cursor: pointer;
