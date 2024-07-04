@@ -43,18 +43,18 @@ export default function Home() {
     }
   `)
 
-  const [theme, setTheme] = useState('light')
+  // const [theme, setTheme] = useState('light')
 
-  const toggleTheme = () => {
-    const newTheme = theme === 'dark' ? 'light' : 'dark'
-    setTheme(newTheme)
-    document.documentElement.setAttribute('data-theme', newTheme)
-  }
+  // const toggleTheme = () => {
+  //   const newTheme = theme === 'dark' ? 'light' : 'dark'
+  //   setTheme(newTheme)
+  //   document.documentElement.setAttribute('data-theme', newTheme)
+  // }
 
-  useEffect(() => {
-    const currentTheme = document.documentElement.getAttribute('data-theme')
-    setTheme(currentTheme || 'light')
-  }, [])
+  // useEffect(() => {
+  //   const currentTheme = document.documentElement.getAttribute('data-theme')
+  //   setTheme(currentTheme || 'light')
+  // }, [])
 
   return data.homeNote ? (
     <Layout title={data.homeNote.fields.title} type="home">

@@ -3839,9 +3839,10 @@ a.navbar-item,
 
 .footer {
   background-color: inherit;
-  padding: 3rem 1.5rem 6rem; 
+  padding: 3rem 1.5rem 6rem;
   opacity: 50%;
-
+  /* Ensures footer stays at the bottom */
+  flex-shrink: 0;
 }
 
 .box-feed {

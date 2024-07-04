@@ -17,17 +17,16 @@ class DarkMode extends React.Component {
               checked={theme === 'dark'}
               hidden
             />
-            <>
-            <div className="logo-container">
-          <img
-            className="trn-lead-logo-main"
-            src="img/logo-main.svg"
-            alt="The Remind Notation Logo"
-            onClick={toggleTheme}
-            style={{ cursor: 'pointer' }}
-          />
-        </div>
-        </>
+           
+              <div className="logo-container">
+                <img
+                  className="trn-lead-logo-main"
+                  src="img/logo-main.svg"
+                  alt="The Remind Notation Logo"
+                  style={{ cursor: 'pointer' }}
+                />
+              </div>
+           
           </label>
         )}
       </ThemeToggler>
