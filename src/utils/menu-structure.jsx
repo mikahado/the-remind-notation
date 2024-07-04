@@ -96,14 +96,14 @@ export const DefaultMenuStructure = (menuType = 'main') => {
       })
       .slice(0, 10) // Get the top 10 tags.
 
-    if (tagList.length) {
-      structure[3].menu = tagList.map(tag => {
-        return { type: 'tag', item: tag.fieldValue }
-      })
-    } else {
-      // If no tags, don't show the tag section.
-      structure.splice(2, 1)
-    }
+    // if (tagList.length) {
+    //   structure[3].menu = tagList.map(tag => {
+    //     return { type: 'tag', item: tag.fieldValue }
+    //   })
+    // } else {
+    //   // If no tags, don't show the tag section.
+    //   structure.splice(2, 1)
+    // }
   }
 
   return structure
