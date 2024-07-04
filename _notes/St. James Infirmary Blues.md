@@ -3,11 +3,9 @@ title: St. James Infirmary Blues
 artist: Anonymous
 tags: 
   - Traditional
-  - Blues
 ---
 *Anonymous* - Key: Dm
-### - Dm A7 Dm Gm Dm A7
-### - Dm A7 Dm Bb7 A7 Dm A7
+### - Dm A7 Dm ^ Bb7 A7 Dm A7
 
  
 It was down in old Joe's bar-room / On the corner by the square / The drinks were served as usual / And the usual crowd were there / On my left stood big Joe McKennedy / His eyes were bloodshot red /
