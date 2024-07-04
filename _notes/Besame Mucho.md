@@ -7,8 +7,10 @@ tags:
 ---
 
 *Consuelo Velázquez* - Key: Em
-### - Em Am B7 Em
-### - E7 Am Em C7 B7 Em
+### - Gm7 Cm7 
+### - ( Cm G7 Eb D7 Gm7 /
+### - Gm A7 D7 )
+### - Cm7 Gm7 D7 G7
  
 Bésame, bésame mucho / Como si fuera esta noche la última vez /
 Bésame, bésame mucho / Que tengo miedo a perderte, perderte después /  
